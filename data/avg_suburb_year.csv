@@ -1,451 +1,451 @@
-Suburb,Year,avg_price
-Abbotsford,2016,1026355.96
-Abbotsford,2017,1093339.57
-Aberfeldie,2016,1303789.80
-Aberfeldie,2017,1278959.74
-Airport West,2016,669510.42
-Airport West,2017,757060.00
-Albanvale,2017,532416.78
-Albert Park,2016,1891318.88
-Albert Park,2017,2098837.28
-Albion,2016,580233.33
-Albion,2017,639971.34
-Alphington,2016,1445058.87
-Alphington,2017,1378904.03
-Altona,2016,780480.49
-Altona,2017,882495.72
-Altona Meadows,2017,683337.09
-Altona North,2016,732546.18
-Altona North,2017,823565.42
-Ardeer,2017,651750.00
-Armadale,2016,1671969.56
-Armadale,2017,1627785.79
-Ascot Vale,2016,1017441.46
-Ascot Vale,2017,1106911.40
-Ashburton,2016,1579997.67
-Ashburton,2017,1707584.45
-Ashwood,2016,1116916.91
-Ashwood,2017,1173198.67
-Aspendale,2017,1211981.70
-Aspendale Gardens,2017,835000.00
-Attwood,2017,640000.00
-Avondale Heights,2016,818900.06
-Avondale Heights,2017,849146.80
-Balaclava,2016,769439.45
-Balaclava,2017,747007.05
-Balwyn,2016,1879148.10
-Balwyn,2017,1859694.93
-Balwyn North,2016,1755261.95
-Balwyn North,2017,1789041.08
-Bayswater,2017,720075.04
-Bayswater North,2017,730812.86
-Beaconsfield,2017,581333.33
-Beaconsfield Upper,2017,675000.00
-Beaumaris,2017,1691395.13
-Bellfield,2016,772227.83
-Bellfield,2017,835921.13
-Bentleigh,2016,1254686.52
-Bentleigh,2017,1306222.08
-Bentleigh East,2016,1043994.82
-Bentleigh East,2017,1187101.39
-Berwick,2017,789214.29
-Black Rock,2017,1344441.55
-Blackburn,2017,1325028.13
-Blackburn North,2017,1121931.62
-Blackburn South,2017,1087250.67
-Bonbeach,2017,1078200.00
-Boronia,2017,763144.83
-Box Hill,2016,1300263.90
-Box Hill,2017,1281972.46
-Braybrook,2016,652229.16
-Braybrook,2017,679995.61
-Briar Hill,2017,743075.00
-Brighton,2016,1933237.13
-Brighton,2017,2057177.29
-Brighton East,2016,1657447.39
-Brighton East,2017,1607636.65
-Broadmeadows,2017,538847.19
-Brookfield,2017,456000.00
-Brooklyn,2016,589914.67
-Brooklyn,2017,634760.63
-Brunswick,2016,926619.09
-Brunswick,2017,1009928.15
-Brunswick East,2016,939656.47
-Brunswick East,2017,858248.31
-Brunswick West,2016,784736.62
-Brunswick West,2017,819051.64
-Bulleen,2016,1154404.81
-Bulleen,2017,1167096.04
-Bundoora,2017,806300.23
-Burnley,2016,1079877.50
-Burnley,2017,1022500.00
-Burnside,2017,618750.00
-Burnside Heights,2017,575050.00
-Burwood,2016,1192325.23
-Burwood,2017,1251619.04
-Burwood East,2017,1080598.75
-Cairnlea,2017,676824.27
-Camberwell,2016,1876607.62
-Camberwell,2017,1946662.55
-Campbellfield,2017,650000.00
-Canterbury,2016,2262146.12
-Canterbury,2017,2452543.13
-Carlton,2016,1016115.32
-Carlton,2017,1035741.00
-Carlton North,2016,1397548.79
-Carlton North,2017,1491403.11
-Carnegie,2016,886441.37
-Carnegie,2017,949317.27
-Caroline Springs,2017,631880.31
-Carrum,2017,723195.27
-Carrum Downs,2017,545879.06
-Caulfield,2016,993968.67
-Caulfield,2017,543119.27
-Caulfield East,2016,1073333.33
-Caulfield East,2017,889955.60
-Caulfield North,2016,1038627.42
-Caulfield North,2017,1047320.77
-Caulfield South,2016,1179099.80
-Caulfield South,2017,1259521.23
-Chadstone,2016,1016597.75
-Chadstone,2017,989654.84
-Chelsea,2017,802762.00
-Chelsea Heights,2017,749625.00
-Cheltenham,2017,999876.01
-Chirnside Park,2017,911982.00
-Clarinda,2017,891144.44
-Clayton,2017,1184556.96
-Clayton South,2017,839935.89
-Clifton Hill,2016,1160903.45
-Clifton Hill,2017,1243962.90
-Coburg,2016,877033.07
-Coburg,2017,939745.01
-Coburg North,2016,768988.07
-Coburg North,2017,792482.46
-Collingwood,2016,898499.45
-Collingwood,2017,905950.67
-Coolaroo,2017,440500.00
-Craigieburn,2017,554918.05
-Cranbourne,2017,576401.60
-Cranbourne North,2017,585000.00
-Cremorne,2016,1018664.13
-Cremorne,2017,995329.50
-Croydon,2017,882235.69
-Croydon Hills,2017,904736.11
-Croydon North,2017,801125.00
-Croydon South,2017,910000.00
-Dallas,2017,439285.75
-Dandenong,2017,583887.83
-Dandenong North,2017,630866.35
-Deepdene,2017,1715000.00
-Deer Park,2017,594819.42
-Delahey,2017,538944.44
-Derrimut,2017,753000.00
-Diamond Creek,2017,777423.08
-Diggers Rest,2017,482333.33
-Dingley Village,2017,898158.70
-Docklands,2016,1033333.33
-Docklands,2017,696666.67
-Doncaster,2016,1181251.44
-Doncaster,2017,1270182.47
-Doncaster East,2017,1335006.97
-Donvale,2017,1235560.67
-Doreen,2017,494500.00
-Doveton,2017,490530.27
-Eaglemont,2016,1672535.88
-Eaglemont,2017,1863826.67
-East Melbourne,2016,1254916.67
-East Melbourne,2017,1313108.70
-Edithvale,2017,927400.00
-Elsternwick,2016,1344140.39
-Elsternwick,2017,1249114.31
-Eltham,2017,882189.82
-Eltham North,2017,894027.59
-Elwood,2016,1004139.73
-Elwood,2017,1003735.24
-Emerald,2017,655000.00
-Endeavour Hills,2017,670250.00
-Epping,2017,571891.65
-Essendon,2016,1025716.44
-Essendon,2017,1086658.22
-Essendon North,2016,806912.55
-Essendon North,2017,892416.68
-Essendon West,2016,984796.00
-Essendon West,2017,1259948.00
-Fairfield,2016,1044833.59
-Fairfield,2017,1141342.75
-Fawkner,2016,606041.10
-Fawkner,2017,688855.48
-Ferntree Gully,2017,822403.14
-Fitzroy,2016,1242214.38
-Fitzroy,2017,1383749.05
-Fitzroy North,2016,1272113.49
-Fitzroy North,2017,1248361.61
-Flemington,2016,782927.33
-Flemington,2017,881997.80
-Footscray,2016,678940.15
-Footscray,2017,693239.24
-Forest Hill,2017,975801.37
-Frankston,2017,650000.09
-Frankston North,2017,512500.00
-Frankston South,2017,1091595.56
-Gardenvale,2016,907000.00
-Gardenvale,2017,1250000.00
-Gisborne,2017,623152.75
-Gladstone Park,2017,659492.00
-Glen Huntly,2016,757460.00
-Glen Huntly,2017,666880.55
-Glen Iris,2016,1642485.86
-Glen Iris,2017,1628148.41
-Glen Waverley,2017,1346847.70
-Glenroy,2016,602263.55
-Glenroy,2017,689086.36
-Gowanbrae,2016,627820.63
-Gowanbrae,2017,781266.67
-Greensborough,2017,825871.37
-Greenvale,2017,737095.00
-Hadfield,2016,646054.94
-Hadfield,2017,738836.03
-Hallam,2017,780900.00
-Hampton,2016,1594185.03
-Hampton,2017,1659735.85
-Hampton East,2016,1085126.34
-Hampton East,2017,1043428.97
-Hampton Park,2017,579785.71
-Hawthorn,2016,1380146.70
-Hawthorn,2017,1428425.54
-Hawthorn East,2016,1486644.31
-Hawthorn East,2017,1533476.93
-Healesville,2017,650000.00
-Heathmont,2017,960875.00
-Heidelberg,2016,930799.73
-Heidelberg,2017,934101.95
-Heidelberg Heights,2016,712513.81
-Heidelberg Heights,2017,792785.30
-Heidelberg West,2016,625436.78
-Heidelberg West,2017,678904.17
-Highett,2017,1165100.45
-Hillside,2017,653652.90
-Hoppers Crossing,2017,549979.07
-Hughesdale,2016,1077271.72
-Hughesdale,2017,1076149.52
-Huntingdale,2017,1064828.57
-Hurstbridge,2017,790000.00
-Ivanhoe,2016,1070592.54
-Ivanhoe,2017,1332689.17
-Ivanhoe East,2016,1771897.75
-Ivanhoe East,2017,1866328.09
-Jacana,2016,451953.33
-Jacana,2017,551908.00
-Kealba,2016,562597.90
-Kealba,2017,639101.11
-Keilor,2017,793961.54
-Keilor Downs,2017,659764.04
-Keilor East,2016,749446.48
-Keilor East,2017,880817.08
-Keilor Lodge,2017,660000.00
-Keilor Park,2016,595233.33
-Keilor Park,2017,728733.33
-Kensington,2016,811830.78
-Kensington,2017,822097.14
-Kew,2016,1865260.26
-Kew,2017,1868142.17
-Kew East,2016,1617899.46
-Kew East,2017,1693555.96
-Keysborough,2017,817125.00
-Kilsyth,2017,758500.00
-Kings Park,2017,550240.00
-Kingsbury,2016,694717.18
-Kingsbury,2017,737250.08
-Kingsville,2016,848860.77
-Kingsville,2017,843744.04
-Knoxfield,2017,953400.00
-Kooyong,2016,1395055.67
-Kooyong,2017,1622309.57
-Kurunjang,2017,351583.33
-Lalor,2017,628992.92
-Langwarrin,2017,631936.36
-Lower Plenty,2017,835750.00
-Maidstone,2016,713246.38
-Maidstone,2017,701839.23
-Malvern,2016,1946438.82
-Malvern,2017,2072348.10
-Malvern East,2016,1473399.93
-Malvern East,2017,1623039.71
-Maribyrnong,2016,752704.19
-Maribyrnong,2017,879975.11
-Mckinnon,2017,1372021.90
-Meadow Heights,2017,485168.52
-Melbourne,2016,668369.38
-Melbourne,2017,749883.00
-Melton,2017,415676.74
-Melton South,2017,376257.39
-Melton West,2017,431768.93
-Mentone,2017,963688.10
-Mernda,2017,616646.11
-Mickleham,2017,530000.00
-Middle Park,2016,2213983.00
-Middle Park,2017,2305613.85
-Mill Park,2017,644663.06
-Mitcham,2017,982306.87
-Mont Albert,2016,1415616.60
-Mont Albert,2017,1695305.46
-Montmorency,2017,863451.14
-Montrose,2017,735000.00
-Moonee Ponds,2016,1061114.48
-Moonee Ponds,2017,1158885.94
-Moorabbin,2016,938432.64
-Moorabbin,2017,1070446.14
-Mooroolbark,2017,744906.72
-Mordialloc,2017,1008038.09
-Mount Evelyn,2017,567500.00
-Mount Waverley,2017,1378067.15
-Mulgrave,2017,1152426.02
-Murrumbeena,2016,1027784.56
-Murrumbeena,2017,1031176.17
-Narre Warren,2017,648930.53
-New Gisborne,2017,690000.00
-Newport,2016,968462.75
-Newport,2017,1077277.02
-Niddrie,2016,886712.85
-Niddrie,2017,1047702.94
-Noble Park,2017,642815.76
-North Melbourne,2016,842252.97
-North Melbourne,2017,959181.61
-North Warrandyte,2017,1226000.00
-Northcote,2016,1250487.40
-Northcote,2017,1218103.37
-Notting Hill,2017,1076200.00
-Nunawading,2017,1008626.34
-Oak Park,2016,748542.05
-Oak Park,2017,885451.04
-Oakleigh,2016,951468.79
-Oakleigh,2017,1248566.24
-Oakleigh East,2017,1034711.13
-Oakleigh South,2016,926915.58
-Oakleigh South,2017,1057465.53
-Officer,2017,559000.00
-Ormond,2016,1149007.70
-Ormond,2017,1128204.44
-Pakenham,2017,488200.00
-Parkdale,2017,1111052.11
-Parkville,2016,1217045.46
-Parkville,2017,1277328.24
-Pascoe Vale,2016,714014.57
-Pascoe Vale,2017,782882.07
-Patterson Lakes,2017,670000.00
-Plumpton,2017,625500.00
-Point Cook,2017,656681.00
-Port Melbourne,2016,1187140.90
-Port Melbourne,2017,1346108.91
-Prahran,2016,1113442.11
-Prahran,2017,1180454.22
-Preston,2016,839862.17
-Preston,2017,885267.44
-Princes Hill,2016,1777333.33
-Princes Hill,2017,1758666.67
-Reservoir,2016,635887.58
-Reservoir,2017,730628.29
-Richmond,2016,1078110.84
-Richmond,2017,1104342.42
-Riddells Creek,2017,892250.00
-Ringwood,2017,927869.88
-Ringwood East,2017,941326.09
-Ringwood North,2017,939333.29
-Ripponlea,2016,744000.00
-Ripponlea,2017,687350.00
-Rosanna,2016,917460.42
-Rosanna,2017,1027508.68
-Rowville,2017,912740.32
-Roxburgh Park,2017,498743.45
-Sandhurst,2017,655000.00
-Sandringham,2017,1565764.78
-Scoresby,2017,952790.91
-Seabrook,2017,593333.33
-Seaford,2017,703615.96
-Seaholme,2016,1040000.00
-Seaholme,2017,1680000.00
-Seddon,2016,968958.66
-Seddon,2017,1033096.77
-Skye,2017,597849.00
-South Kingsville,2016,717980.94
-South Kingsville,2017,785447.93
-South Melbourne,2016,1248175.70
-South Melbourne,2017,1421036.33
-South Morang,2017,628938.74
-South Yarra,2016,1061441.60
-South Yarra,2017,1059699.61
-Southbank,2016,650881.97
-Southbank,2017,565984.63
-Spotswood,2016,956770.00
-Spotswood,2017,903068.35
-Springvale,2017,751041.67
-Springvale South,2017,725000.00
-St Albans,2017,588581.27
-St Helena,2017,1029666.67
-St Kilda,2016,824948.70
-St Kilda,2017,938731.31
-Strathmore,2016,1162638.25
-Strathmore,2017,1200848.45
-Strathmore Heights,2016,855249.88
-Strathmore Heights,2017,1000000.00
-Sunbury,2017,525885.77
-Sunshine,2016,661067.03
-Sunshine,2017,765777.25
-Sunshine North,2016,629859.50
-Sunshine North,2017,632381.67
-Sunshine West,2016,541056.21
-Sunshine West,2017,602583.11
-Surrey Hills,2016,1564319.86
-Surrey Hills,2017,1643465.67
-Sydenham,2017,584733.33
-Tarneit,2017,522379.27
-Taylors Hill,2017,652272.73
-Taylors Lakes,2017,710252.84
-Templestowe,2017,1524640.58
-Templestowe Lower,2016,1103770.20
-Templestowe Lower,2017,1228952.88
-The Basin,2017,584550.00
-Thomastown,2017,618947.70
-Thornbury,2016,899914.33
-Thornbury,2017,1051491.35
-Toorak,2016,1853554.25
-Toorak,2017,1850952.71
-Travancore,2016,1000541.70
-Travancore,2017,906875.00
-Truganina,2017,521002.20
-Tullamarine,2017,574724.50
-Vermont,2017,1017800.05
-Vermont South,2017,1191813.88
-Viewbank,2016,895443.59
-Viewbank,2017,1042133.58
-Wallan,2017,366000.00
-Wantirna,2017,941047.73
-Wantirna South,2017,1078376.08
-Warrandyte,2017,1132000.00
-Waterways,2017,1248500.00
-Watsonia,2016,704478.22
-Watsonia,2017,797308.00
-Watsonia North,2017,764474.43
-Werribee,2017,521862.21
-West Footscray,2016,757850.61
-West Footscray,2017,761312.62
-West Melbourne,2016,927340.13
-West Melbourne,2017,1060235.28
-Westmeadows,2017,592876.91
-Wheelers Hill,2017,1258392.71
-Whittlesea,2017,520500.00
-Williams Landing,2017,555000.00
-Williamstown,2016,1254356.72
-Williamstown,2017,1354501.73
-Williamstown North,2016,842708.33
-Williamstown North,2017,1020250.00
-Windsor,2016,999555.78
-Windsor,2017,1133404.40
-Wollert,2017,536150.94
-Wyndham Vale,2017,531949.65
-Yallambie,2016,760558.73
-Yallambie,2017,920163.89
-Yarra Glen,2017,620000.00
-Yarraville,2016,951751.54
-Yarraville,2017,997881.97
+Year,Suburb,avg_price
+2016,Abbotsford,1026355.96
+2016,Aberfeldie,1303789.8
+2016,Airport West,669510.42
+2016,Albert Park,1891318.88
+2016,Albion,580233.33
+2016,Alphington,1445058.87
+2016,Altona,780480.49
+2016,Altona North,732546.18
+2016,Armadale,1671969.56
+2016,Ascot Vale,1017441.46
+2016,Ashburton,1579997.67
+2016,Ashwood,1116916.91
+2016,Avondale Heights,818900.06
+2016,Balaclava,769439.45
+2016,Balwyn,1879148.1
+2016,Balwyn North,1755261.95
+2016,Bellfield,772227.83
+2016,Bentleigh,1254686.52
+2016,Bentleigh East,1043994.82
+2016,Box Hill,1300263.9
+2016,Braybrook,652229.16
+2016,Brighton,1933237.13
+2016,Brighton East,1657447.39
+2016,Brooklyn,589914.67
+2016,Brunswick,926619.09
+2016,Brunswick East,939656.47
+2016,Brunswick West,784736.62
+2016,Bulleen,1154404.81
+2016,Burnley,1079877.5
+2016,Burwood,1192325.23
+2016,Camberwell,1876607.62
+2016,Canterbury,2262146.12
+2016,Carlton,1016115.32
+2016,Carlton North,1397548.79
+2016,Carnegie,886441.37
+2016,Caulfield,993968.67
+2016,Caulfield East,1073333.33
+2016,Caulfield North,1038627.42
+2016,Caulfield South,1179099.8
+2016,Chadstone,1016597.75
+2016,Clifton Hill,1160903.45
+2016,Coburg,877033.07
+2016,Coburg North,768988.07
+2016,Collingwood,898499.45
+2016,Cremorne,1018664.12
+2016,Docklands,1033333.33
+2016,Doncaster,1181251.44
+2016,Eaglemont,1672535.88
+2016,East Melbourne,1254916.67
+2016,Elsternwick,1344140.39
+2016,Elwood,1004139.73
+2016,Essendon,1025716.44
+2016,Essendon North,806912.55
+2016,Essendon West,984796
+2016,Fairfield,1044833.59
+2016,Fawkner,606041.1
+2016,Fitzroy,1242214.38
+2016,Fitzroy North,1272113.49
+2016,Flemington,782927.32
+2016,Footscray,678940.15
+2016,Gardenvale,907000
+2016,Glen Huntly,757460
+2016,Glen Iris,1642485.86
+2016,Glenroy,602263.55
+2016,Gowanbrae,627820.63
+2016,Hadfield,646054.94
+2016,Hampton,1594185.03
+2016,Hampton East,1085126.34
+2016,Hawthorn,1380146.7
+2016,Hawthorn East,1486644.31
+2016,Heidelberg,930799.73
+2016,Heidelberg Heights,712513.81
+2016,Heidelberg West,625436.78
+2016,Hughesdale,1077271.72
+2016,Ivanhoe,1070592.54
+2016,Ivanhoe East,1771897.75
+2016,Jacana,451953.33
+2016,Kealba,562597.9
+2016,Keilor East,749446.48
+2016,Keilor Park,595233.33
+2016,Kensington,811830.78
+2016,Kew,1865260.26
+2016,Kew East,1617899.46
+2016,Kingsbury,694717.18
+2016,Kingsville,848860.77
+2016,Kooyong,1395055.67
+2016,Maidstone,713246.38
+2016,Malvern,1946438.82
+2016,Malvern East,1473399.93
+2016,Maribyrnong,752704.19
+2016,Melbourne,668369.38
+2016,Middle Park,2213983
+2016,Mont Albert,1415616.6
+2016,Moonee Ponds,1061114.48
+2016,Moorabbin,938432.64
+2016,Murrumbeena,1027784.56
+2016,Newport,968462.75
+2016,Niddrie,886712.85
+2016,North Melbourne,842252.97
+2016,Northcote,1250487.4
+2016,Oak Park,748542.05
+2016,Oakleigh,951468.79
+2016,Oakleigh South,926915.58
+2016,Ormond,1149007.7
+2016,Parkville,1217045.46
+2016,Pascoe Vale,714014.57
+2016,Port Melbourne,1187140.9
+2016,Prahran,1113442.11
+2016,Preston,839862.17
+2016,Princes Hill,1777333.33
+2016,Reservoir,635887.58
+2016,Richmond,1078110.84
+2016,Ripponlea,744000
+2016,Rosanna,917460.42
+2016,Seaholme,1040000
+2016,Seddon,968958.66
+2016,South Kingsville,717980.94
+2016,South Melbourne,1248175.7
+2016,South Yarra,1061441.6
+2016,Southbank,650881.97
+2016,Spotswood,956770
+2016,St Kilda,824948.7
+2016,Strathmore,1162638.25
+2016,Strathmore Heights,855249.88
+2016,Sunshine,661067.03
+2016,Sunshine North,629859.5
+2016,Sunshine West,541056.21
+2016,Surrey Hills,1564319.86
+2016,Templestowe Lower,1103770.2
+2016,Thornbury,899914.33
+2016,Toorak,1853554.25
+2016,Travancore,1000541.7
+2016,Viewbank,895443.59
+2016,Watsonia,704478.22
+2016,West Footscray,757850.61
+2016,West Melbourne,927340.13
+2016,Williamstown,1254356.72
+2016,Williamstown North,842708.33
+2016,Windsor,999555.78
+2016,Yallambie,760558.73
+2016,Yarraville,951751.54
+2017,Abbotsford,1093339.57
+2017,Aberfeldie,1278959.74
+2017,Airport West,757060
+2017,Albanvale,532416.78
+2017,Albert Park,2098837.28
+2017,Albion,639971.34
+2017,Alphington,1378904.03
+2017,Altona,882495.72
+2017,Altona Meadows,683337.09
+2017,Altona North,823565.42
+2017,Ardeer,651750
+2017,Armadale,1627785.79
+2017,Ascot Vale,1106911.4
+2017,Ashburton,1707584.45
+2017,Ashwood,1173198.67
+2017,Aspendale,1211981.7
+2017,Aspendale Gardens,835000
+2017,Attwood,640000
+2017,Avondale Heights,849146.8
+2017,Balaclava,747007.05
+2017,Balwyn,1859694.93
+2017,Balwyn North,1789041.08
+2017,Bayswater,720075.04
+2017,Bayswater North,730812.86
+2017,Beaconsfield,581333.33
+2017,Beaconsfield Upper,675000
+2017,Beaumaris,1691395.12
+2017,Bellfield,835921.13
+2017,Bentleigh,1306222.08
+2017,Bentleigh East,1187101.39
+2017,Berwick,789214.29
+2017,Black Rock,1344441.55
+2017,Blackburn,1325028.12
+2017,Blackburn North,1121931.62
+2017,Blackburn South,1087250.67
+2017,Bonbeach,1078200
+2017,Boronia,763144.83
+2017,Box Hill,1281972.46
+2017,Braybrook,679995.61
+2017,Briar Hill,743075
+2017,Brighton,2057177.29
+2017,Brighton East,1607636.65
+2017,Broadmeadows,538847.19
+2017,Brookfield,456000
+2017,Brooklyn,634760.62
+2017,Brunswick,1009928.15
+2017,Brunswick East,858248.31
+2017,Brunswick West,819051.64
+2017,Bulleen,1167096.04
+2017,Bundoora,806300.23
+2017,Burnley,1022500
+2017,Burnside,618750
+2017,Burnside Heights,575050
+2017,Burwood,1251619.04
+2017,Burwood East,1080598.75
+2017,Cairnlea,676824.27
+2017,Camberwell,1946662.55
+2017,Campbellfield,650000
+2017,Canterbury,2452543.13
+2017,Carlton,1035741
+2017,Carlton North,1491403.11
+2017,Carnegie,949317.27
+2017,Caroline Springs,631880.31
+2017,Carrum,723195.27
+2017,Carrum Downs,545879.06
+2017,Caulfield,543119.27
+2017,Caulfield East,889955.6
+2017,Caulfield North,1047320.77
+2017,Caulfield South,1259521.23
+2017,Chadstone,989654.84
+2017,Chelsea,802762
+2017,Chelsea Heights,749625
+2017,Cheltenham,999876.01
+2017,Chirnside Park,911982
+2017,Clarinda,891144.44
+2017,Clayton,1184556.96
+2017,Clayton South,839935.89
+2017,Clifton Hill,1243962.9
+2017,Coburg,939745.01
+2017,Coburg North,792482.46
+2017,Collingwood,905950.67
+2017,Coolaroo,440500
+2017,Craigieburn,554918.05
+2017,Cranbourne,576401.6
+2017,Cranbourne North,585000
+2017,Cremorne,995329.5
+2017,Croydon,882235.69
+2017,Croydon Hills,904736.11
+2017,Croydon North,801125
+2017,Croydon South,910000
+2017,Dallas,439285.75
+2017,Dandenong,583887.83
+2017,Dandenong North,630866.35
+2017,Deepdene,1715000
+2017,Deer Park,594819.42
+2017,Delahey,538944.44
+2017,Derrimut,753000
+2017,Diamond Creek,777423.08
+2017,Diggers Rest,482333.33
+2017,Dingley Village,898158.7
+2017,Docklands,696666.67
+2017,Doncaster,1270182.47
+2017,Doncaster East,1335006.97
+2017,Donvale,1235560.67
+2017,Doreen,494500
+2017,Doveton,490530.27
+2017,Eaglemont,1863826.67
+2017,East Melbourne,1313108.7
+2017,Edithvale,927400
+2017,Elsternwick,1249114.31
+2017,Eltham,882189.82
+2017,Eltham North,894027.59
+2017,Elwood,1003735.24
+2017,Emerald,655000
+2017,Endeavour Hills,670250
+2017,Epping,571891.65
+2017,Essendon,1086658.22
+2017,Essendon North,892416.68
+2017,Essendon West,1259948
+2017,Fairfield,1141342.75
+2017,Fawkner,688855.48
+2017,Ferntree Gully,822403.14
+2017,Fitzroy,1383749.05
+2017,Fitzroy North,1248361.61
+2017,Flemington,881997.8
+2017,Footscray,693239.24
+2017,Forest Hill,975801.37
+2017,Frankston,650000.09
+2017,Frankston North,512500
+2017,Frankston South,1091595.56
+2017,Gardenvale,1250000
+2017,Gisborne,623152.75
+2017,Gladstone Park,659492
+2017,Glen Huntly,666880.55
+2017,Glen Iris,1628148.41
+2017,Glen Waverley,1346847.7
+2017,Glenroy,689086.36
+2017,Gowanbrae,781266.67
+2017,Greensborough,825871.37
+2017,Greenvale,737095
+2017,Hadfield,738836.03
+2017,Hallam,780900
+2017,Hampton,1659735.85
+2017,Hampton East,1043428.97
+2017,Hampton Park,579785.71
+2017,Hawthorn,1428425.54
+2017,Hawthorn East,1533476.93
+2017,Healesville,650000
+2017,Heathmont,960875
+2017,Heidelberg,934101.95
+2017,Heidelberg Heights,792785.3
+2017,Heidelberg West,678904.17
+2017,Highett,1165100.45
+2017,Hillside,653652.9
+2017,Hoppers Crossing,549979.07
+2017,Hughesdale,1076149.52
+2017,Huntingdale,1064828.57
+2017,Hurstbridge,790000
+2017,Ivanhoe,1332689.17
+2017,Ivanhoe East,1866328.09
+2017,Jacana,551908
+2017,Kealba,639101.11
+2017,Keilor,793961.54
+2017,Keilor Downs,659764.04
+2017,Keilor East,880817.08
+2017,Keilor Lodge,660000
+2017,Keilor Park,728733.33
+2017,Kensington,822097.14
+2017,Kew,1868142.17
+2017,Kew East,1693555.96
+2017,Keysborough,817125
+2017,Kilsyth,758500
+2017,Kings Park,550240
+2017,Kingsbury,737250.08
+2017,Kingsville,843744.04
+2017,Knoxfield,953400
+2017,Kooyong,1622309.57
+2017,Kurunjang,351583.33
+2017,Lalor,628992.92
+2017,Langwarrin,631936.36
+2017,Lower Plenty,835750
+2017,Maidstone,701839.23
+2017,Malvern,2072348.1
+2017,Malvern East,1623039.71
+2017,Maribyrnong,879975.11
+2017,Mckinnon,1372021.9
+2017,Meadow Heights,485168.52
+2017,Melbourne,749883
+2017,Melton,415676.74
+2017,Melton South,376257.39
+2017,Melton West,431768.93
+2017,Mentone,963688.1
+2017,Mernda,616646.11
+2017,Mickleham,530000
+2017,Middle Park,2305613.85
+2017,Mill Park,644663.06
+2017,Mitcham,982306.87
+2017,Mont Albert,1695305.46
+2017,Montmorency,863451.14
+2017,Montrose,735000
+2017,Moonee Ponds,1158885.94
+2017,Moorabbin,1070446.14
+2017,Mooroolbark,744906.72
+2017,Mordialloc,1008038.09
+2017,Mount Evelyn,567500
+2017,Mount Waverley,1378067.15
+2017,Mulgrave,1152426.02
+2017,Murrumbeena,1031176.17
+2017,Narre Warren,648930.53
+2017,New Gisborne,690000
+2017,Newport,1077277.02
+2017,Niddrie,1047702.94
+2017,Noble Park,642815.76
+2017,North Melbourne,959181.61
+2017,North Warrandyte,1226000
+2017,Northcote,1218103.37
+2017,Notting Hill,1076200
+2017,Nunawading,1008626.34
+2017,Oak Park,885451.04
+2017,Oakleigh,1248566.24
+2017,Oakleigh East,1034711.13
+2017,Oakleigh South,1057465.53
+2017,Officer,559000
+2017,Ormond,1128204.44
+2017,Pakenham,488200
+2017,Parkdale,1111052.11
+2017,Parkville,1277328.24
+2017,Pascoe Vale,782882.07
+2017,Patterson Lakes,670000
+2017,Plumpton,625500
+2017,Point Cook,656681
+2017,Port Melbourne,1346108.91
+2017,Prahran,1180454.22
+2017,Preston,885267.44
+2017,Princes Hill,1758666.67
+2017,Reservoir,730628.29
+2017,Richmond,1104342.42
+2017,Riddells Creek,892250
+2017,Ringwood,927869.88
+2017,Ringwood East,941326.09
+2017,Ringwood North,939333.29
+2017,Ripponlea,687350
+2017,Rosanna,1027508.68
+2017,Rowville,912740.32
+2017,Roxburgh Park,498743.45
+2017,Sandhurst,655000
+2017,Sandringham,1565764.78
+2017,Scoresby,952790.91
+2017,Seabrook,593333.33
+2017,Seaford,703615.96
+2017,Seaholme,1680000
+2017,Seddon,1033096.77
+2017,Skye,597849
+2017,South Kingsville,785447.93
+2017,South Melbourne,1421036.33
+2017,South Morang,628938.74
+2017,South Yarra,1059699.61
+2017,Southbank,565984.63
+2017,Spotswood,903068.35
+2017,Springvale,751041.67
+2017,Springvale South,725000
+2017,St Albans,588581.27
+2017,St Helena,1029666.67
+2017,St Kilda,938731.31
+2017,Strathmore,1200848.45
+2017,Strathmore Heights,1000000
+2017,Sunbury,525885.77
+2017,Sunshine,765777.25
+2017,Sunshine North,632381.67
+2017,Sunshine West,602583.11
+2017,Surrey Hills,1643465.67
+2017,Sydenham,584733.33
+2017,Tarneit,522379.27
+2017,Taylors Hill,652272.73
+2017,Taylors Lakes,710252.84
+2017,Templestowe,1524640.58
+2017,Templestowe Lower,1228952.88
+2017,The Basin,584550
+2017,Thomastown,618947.7
+2017,Thornbury,1051491.35
+2017,Toorak,1850952.71
+2017,Travancore,906875
+2017,Truganina,521002.2
+2017,Tullamarine,574724.5
+2017,Vermont,1017800.05
+2017,Vermont South,1191813.88
+2017,Viewbank,1042133.58
+2017,Wallan,366000
+2017,Wantirna,941047.73
+2017,Wantirna South,1078376.08
+2017,Warrandyte,1132000
+2017,Waterways,1248500
+2017,Watsonia,797308
+2017,Watsonia North,764474.43
+2017,Werribee,521862.21
+2017,West Footscray,761312.62
+2017,West Melbourne,1060235.28
+2017,Westmeadows,592876.91
+2017,Wheelers Hill,1258392.71
+2017,Whittlesea,520500
+2017,Williams Landing,555000
+2017,Williamstown,1354501.73
+2017,Williamstown North,1020250
+2017,Windsor,1133404.4
+2017,Wollert,536150.94
+2017,Wyndham Vale,531949.65
+2017,Yallambie,920163.89
+2017,Yarra Glen,620000
+2017,Yarraville,997881.97
