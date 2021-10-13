@@ -1,1275 +1,771 @@
-CouncilArea,Suburb,DateMonth,avg_price
-Bayside,Beaumaris,1/01/2016,1802798
-Bayside,Beaumaris,1/02/2016,1802798
-Bayside,Beaumaris,1/03/2016,1802798
-Bayside,Beaumaris,1/04/2016,1802798
-Bayside,Beaumaris,1/05/2016,1802798
-Bayside,Beaumaris,1/06/2016,1802798
-Bayside,Beaumaris,1/07/2016,1802798
-Bayside,Beaumaris,1/08/2016,1802798
-Bayside,Beaumaris,1/09/2016,1802798
-Bayside,Beaumaris,1/10/2016,1802798
-Bayside,Beaumaris,1/11/2016,1802798
-Bayside,Beaumaris,1/12/2016,1802798
-Bayside,Beaumaris,1/01/2017,1802798
-Bayside,Beaumaris,1/02/2017,1802798
-Bayside,Beaumaris,1/03/2017,1802798
-Bayside,Beaumaris,1/04/2017,1802798
-Bayside,Beaumaris,1/05/2017,2364375
-Bayside,Beaumaris,1/06/2017,1733458
-Bayside,Beaumaris,1/07/2017,1373575
-Bayside,Beaumaris,1/08/2017,1860200
-Bayside,Beaumaris,1/09/2017,1682379
-Bayside,Beaumaris,1/10/2017,1802798
-Bayside,Beaumaris,1/11/2017,1802798
-Bayside,Beaumaris,1/12/2017,1802798
-Bayside,Black Rock,1/01/2016,1189977
-Bayside,Black Rock,1/02/2016,1189977
-Bayside,Black Rock,1/03/2016,1189977
-Bayside,Black Rock,1/04/2016,1189977
-Bayside,Black Rock,1/05/2016,1189977
-Bayside,Black Rock,1/06/2016,1189977
-Bayside,Black Rock,1/07/2016,1189977
-Bayside,Black Rock,1/08/2016,1189977
-Bayside,Black Rock,1/09/2016,1189977
-Bayside,Black Rock,1/10/2016,1189977
-Bayside,Black Rock,1/11/2016,1189977
-Bayside,Black Rock,1/12/2016,1189977
-Bayside,Black Rock,1/01/2017,1189977
-Bayside,Black Rock,1/02/2017,1189977
-Bayside,Black Rock,1/03/2017,1189977
-Bayside,Black Rock,1/04/2017,1189977
-Bayside,Black Rock,1/05/2017,851750
-Bayside,Black Rock,1/06/2017,1165333
-Bayside,Black Rock,1/07/2017,907500
-Bayside,Black Rock,1/08/2017,1386089
-Bayside,Black Rock,1/09/2017,1639214
-Bayside,Black Rock,1/10/2017,1189977
-Bayside,Black Rock,1/11/2017,1189977
-Bayside,Black Rock,1/12/2017,1189977
-Bayside,Brighton,1/01/2016,1953745
-Bayside,Brighton,1/02/2016,1953745
-Bayside,Brighton,1/03/2016,1953745
-Bayside,Brighton,1/04/2016,1658295
-Bayside,Brighton,1/05/2016,1750894
-Bayside,Brighton,1/06/2016,2023238
-Bayside,Brighton,1/07/2016,1843903
-Bayside,Brighton,1/08/2016,1907993
-Bayside,Brighton,1/09/2016,1832204
-Bayside,Brighton,1/10/2016,1633788
-Bayside,Brighton,1/11/2016,2055337
-Bayside,Brighton,1/12/2016,2246517
-Bayside,Brighton,1/01/2017,1953745
-Bayside,Brighton,1/02/2017,1864472
-Bayside,Brighton,1/03/2017,2165169
-Bayside,Brighton,1/04/2017,2499042
-Bayside,Brighton,1/05/2017,2060880
-Bayside,Brighton,1/06/2017,1857148
-Bayside,Brighton,1/07/2017,1573093
-Bayside,Brighton,1/08/2017,2177673
-Bayside,Brighton,1/09/2017,2064011
-Bayside,Brighton,1/10/2017,1953745
-Bayside,Brighton,1/11/2017,1953745
-Bayside,Brighton,1/12/2017,1953745
-Bayside,Brighton East,1/01/2016,1595746
-Bayside,Brighton East,1/02/2016,1595746
-Bayside,Brighton East,1/03/2016,1595746
-Bayside,Brighton East,1/04/2016,1701288
-Bayside,Brighton East,1/05/2016,1517331
-Bayside,Brighton East,1/06/2016,1891280
-Bayside,Brighton East,1/07/2016,909000
-Bayside,Brighton East,1/08/2016,1620469
-Bayside,Brighton East,1/09/2016,1683902
-Bayside,Brighton East,1/10/2016,1945918
-Bayside,Brighton East,1/11/2016,1697062
-Bayside,Brighton East,1/12/2016,1633779
-Bayside,Brighton East,1/01/2017,1595746
-Bayside,Brighton East,1/02/2017,1515293
-Bayside,Brighton East,1/03/2017,1565665
-Bayside,Brighton East,1/04/2017,1583170
-Bayside,Brighton East,1/05/2017,1694139
-Bayside,Brighton East,1/06/2017,1870254
-Bayside,Brighton East,1/07/2017,1181260
-Bayside,Brighton East,1/08/2017,1528031
-Bayside,Brighton East,1/09/2017,1589847
-Bayside,Brighton East,1/10/2017,1595746
-Bayside,Brighton East,1/11/2017,1595746
-Bayside,Brighton East,1/12/2017,1595746
-Bayside,Cheltenham,1/01/2016,1129167
-Bayside,Cheltenham,1/02/2016,1129167
-Bayside,Cheltenham,1/03/2016,1129167
-Bayside,Cheltenham,1/04/2016,1129167
-Bayside,Cheltenham,1/05/2016,1129167
-Bayside,Cheltenham,1/06/2016,1129167
-Bayside,Cheltenham,1/07/2016,1129167
-Bayside,Cheltenham,1/08/2016,1129167
-Bayside,Cheltenham,1/09/2016,1129167
-Bayside,Cheltenham,1/10/2016,1129167
-Bayside,Cheltenham,1/11/2016,1129167
-Bayside,Cheltenham,1/12/2016,1129167
-Bayside,Cheltenham,1/01/2017,1129167
-Bayside,Cheltenham,1/02/2017,1129167
-Bayside,Cheltenham,1/03/2017,1129167
-Bayside,Cheltenham,1/04/2017,1129167
-Bayside,Cheltenham,1/05/2017,1129167
-Bayside,Cheltenham,1/06/2017,1500000
-Bayside,Cheltenham,1/07/2017,687500
-Bayside,Cheltenham,1/08/2017,1200000
-Bayside,Cheltenham,1/09/2017,1129167
-Bayside,Cheltenham,1/10/2017,1129167
-Bayside,Cheltenham,1/11/2017,1129167
-Bayside,Cheltenham,1/12/2017,1129167
-Bayside,Hampton,1/01/2016,1578953
-Bayside,Hampton,1/02/2016,1578953
-Bayside,Hampton,1/03/2016,1578953
-Bayside,Hampton,1/04/2016,1567104
-Bayside,Hampton,1/05/2016,1465414
-Bayside,Hampton,1/06/2016,1410476
-Bayside,Hampton,1/07/2016,1273172
-Bayside,Hampton,1/08/2016,1756875
-Bayside,Hampton,1/09/2016,1863513
-Bayside,Hampton,1/10/2016,1176052
-Bayside,Hampton,1/11/2016,1866218
-Bayside,Hampton,1/12/2016,1570670
-Bayside,Hampton,1/01/2017,1578953
-Bayside,Hampton,1/02/2017,1390932
-Bayside,Hampton,1/03/2017,1531357
-Bayside,Hampton,1/04/2017,1289233
-Bayside,Hampton,1/05/2017,1718804
-Bayside,Hampton,1/06/2017,1493471
-Bayside,Hampton,1/07/2017,1621559
-Bayside,Hampton,1/08/2017,1858063
-Bayside,Hampton,1/09/2017,1989286
-Bayside,Hampton,1/10/2017,1578953
-Bayside,Hampton,1/11/2017,1578953
-Bayside,Hampton,1/12/2017,1578953
-Bayside,Hampton East,1/01/2016,1084500
-Bayside,Hampton East,1/02/2016,1084500
-Bayside,Hampton East,1/03/2016,1084500
-Bayside,Hampton East,1/04/2016,1225000
-Bayside,Hampton East,1/05/2016,1124445
-Bayside,Hampton East,1/06/2016,852704
-Bayside,Hampton East,1/07/2016,1235000
-Bayside,Hampton East,1/08/2016,1098572
-Bayside,Hampton East,1/09/2016,1321112
-Bayside,Hampton East,1/10/2016,1117224
-Bayside,Hampton East,1/11/2016,1047537
-Bayside,Hampton East,1/12/2016,1118048
-Bayside,Hampton East,1/01/2017,1084500
-Bayside,Hampton East,1/02/2017,1071296
-Bayside,Hampton East,1/03/2017,669500
-Bayside,Hampton East,1/04/2017,976614
-Bayside,Hampton East,1/05/2017,1222651
-Bayside,Hampton East,1/06/2017,1078500
-Bayside,Hampton East,1/07/2017,1069556
-Bayside,Hampton East,1/08/2017,1185963
-Bayside,Hampton East,1/09/2017,1022772
-Bayside,Hampton East,1/10/2017,1084500
-Bayside,Hampton East,1/11/2017,1084500
-Bayside,Hampton East,1/12/2017,1084500
-Bayside,Highett,1/01/2016,1209286
-Bayside,Highett,1/02/2016,1209286
-Bayside,Highett,1/03/2016,1209286
-Bayside,Highett,1/04/2016,1209286
-Bayside,Highett,1/05/2016,1209286
-Bayside,Highett,1/06/2016,1209286
-Bayside,Highett,1/07/2016,1209286
-Bayside,Highett,1/08/2016,1209286
-Bayside,Highett,1/09/2016,1209286
-Bayside,Highett,1/10/2016,1209286
-Bayside,Highett,1/11/2016,1209286
-Bayside,Highett,1/12/2016,1209286
-Bayside,Highett,1/01/2017,1209286
-Bayside,Highett,1/02/2017,1209286
-Bayside,Highett,1/03/2017,1209286
-Bayside,Highett,1/04/2017,1209286
-Bayside,Highett,1/05/2017,1455421
-Bayside,Highett,1/06/2017,1076787
-Bayside,Highett,1/07/2017,1137639
-Bayside,Highett,1/08/2017,1306625
-Bayside,Highett,1/09/2017,1069958
-Bayside,Highett,1/10/2017,1209286
-Bayside,Highett,1/11/2017,1209286
-Bayside,Highett,1/12/2017,1209286
-Bayside,Sandringham,1/01/2016,1495897
-Bayside,Sandringham,1/02/2016,1495897
-Bayside,Sandringham,1/03/2016,1495897
-Bayside,Sandringham,1/04/2016,1495897
-Bayside,Sandringham,1/05/2016,1495897
-Bayside,Sandringham,1/06/2016,1495897
-Bayside,Sandringham,1/07/2016,1495897
-Bayside,Sandringham,1/08/2016,1495897
-Bayside,Sandringham,1/09/2016,1495897
-Bayside,Sandringham,1/10/2016,1495897
-Bayside,Sandringham,1/11/2016,1495897
-Bayside,Sandringham,1/12/2016,1495897
-Bayside,Sandringham,1/01/2017,1495897
-Bayside,Sandringham,1/02/2017,1495897
-Bayside,Sandringham,1/03/2017,1495897
-Bayside,Sandringham,1/04/2017,1495897
-Bayside,Sandringham,1/05/2017,1183721
-Bayside,Sandringham,1/06/2017,1646714
-Bayside,Sandringham,1/07/2017,1177786
-Bayside,Sandringham,1/08/2017,1695339
-Bayside,Sandringham,1/09/2017,1775925
-Bayside,Sandringham,1/10/2017,1495897
-Bayside,Sandringham,1/11/2017,1495897
-Bayside,Sandringham,1/12/2017,1495897
-Boroondara,Ashburton,1/01/2016,1609885
-Boroondara,Ashburton,1/02/2016,1506365
-Boroondara,Ashburton,1/03/2016,1609885
-Boroondara,Ashburton,1/04/2016,1471932
-Boroondara,Ashburton,1/05/2016,1642381
-Boroondara,Ashburton,1/06/2016,1421818
-Boroondara,Ashburton,1/07/2016,1440000
-Boroondara,Ashburton,1/08/2016,1694826
-Boroondara,Ashburton,1/09/2016,1914125
-Boroondara,Ashburton,1/10/2016,1364800
-Boroondara,Ashburton,1/11/2016,1503104
-Boroondara,Ashburton,1/12/2016,1578961
-Boroondara,Ashburton,1/01/2017,1609885
-Boroondara,Ashburton,1/02/2017,1712031
-Boroondara,Ashburton,1/03/2017,1758944
-Boroondara,Ashburton,1/04/2017,1543278
-Boroondara,Ashburton,1/05/2017,1796773
-Boroondara,Ashburton,1/06/2017,1991655
-Boroondara,Ashburton,1/07/2017,1464510
-Boroondara,Ashburton,1/08/2017,1674563
-Boroondara,Ashburton,1/09/2017,1497861
-Boroondara,Ashburton,1/10/2017,1609885
-Boroondara,Ashburton,1/11/2017,1609885
-Boroondara,Ashburton,1/12/2017,1609885
-Boroondara,Balwyn,1/01/2016,1768505
-Boroondara,Balwyn,1/02/2016,450000
-Boroondara,Balwyn,1/03/2016,1768505
-Boroondara,Balwyn,1/04/2016,1576472
-Boroondara,Balwyn,1/05/2016,1992106
-Boroondara,Balwyn,1/06/2016,2107311
-Boroondara,Balwyn,1/07/2016,2120100
-Boroondara,Balwyn,1/08/2016,1579519
-Boroondara,Balwyn,1/09/2016,1665035
-Boroondara,Balwyn,1/10/2016,1695330
-Boroondara,Balwyn,1/11/2016,1919145
-Boroondara,Balwyn,1/12/2016,1986409
-Boroondara,Balwyn,1/01/2017,1768505
-Boroondara,Balwyn,1/02/2017,2049321
-Boroondara,Balwyn,1/03/2017,2071172
-Boroondara,Balwyn,1/04/2017,1296580
-Boroondara,Balwyn,1/05/2017,1408383
-Boroondara,Balwyn,1/06/2017,2071807
-Boroondara,Balwyn,1/07/2017,2092935
-Boroondara,Balwyn,1/08/2017,1757467
-Boroondara,Balwyn,1/09/2017,1993994
-Boroondara,Balwyn,1/10/2017,1768505
-Boroondara,Balwyn,1/11/2017,1768505
-Boroondara,Balwyn,1/12/2017,1768505
-Boroondara,Balwyn North,1/01/2016,1776862
-Boroondara,Balwyn North,1/02/2016,1776862
-Boroondara,Balwyn North,1/03/2016,1776862
-Boroondara,Balwyn North,1/04/2016,1916996
-Boroondara,Balwyn North,1/05/2016,1582082
-Boroondara,Balwyn North,1/06/2016,1782839
-Boroondara,Balwyn North,1/07/2016,1657572
-Boroondara,Balwyn North,1/08/2016,1830825
-Boroondara,Balwyn North,1/09/2016,1707856
-Boroondara,Balwyn North,1/10/2016,1835549
-Boroondara,Balwyn North,1/11/2016,1627091
-Boroondara,Balwyn North,1/12/2016,2004441
-Boroondara,Balwyn North,1/01/2017,1776862
-Boroondara,Balwyn North,1/02/2017,1646500
-Boroondara,Balwyn North,1/03/2017,1814930
-Boroondara,Balwyn North,1/04/2017,1821599
-Boroondara,Balwyn North,1/05/2017,1675198
-Boroondara,Balwyn North,1/06/2017,1786646
-Boroondara,Balwyn North,1/07/2017,1661491
-Boroondara,Balwyn North,1/08/2017,2033390
-Boroondara,Balwyn North,1/09/2017,1821647
-Boroondara,Balwyn North,1/10/2017,1776862
-Boroondara,Balwyn North,1/11/2017,1776862
-Boroondara,Balwyn North,1/12/2017,1776862
-Boroondara,Camberwell,1/01/2016,1830524
-Boroondara,Camberwell,1/02/2016,1830524
-Boroondara,Camberwell,1/03/2016,1830524
-Boroondara,Camberwell,1/04/2016,1618702
-Boroondara,Camberwell,1/05/2016,2278600
-Boroondara,Camberwell,1/06/2016,1528849
-Boroondara,Camberwell,1/07/2016,1175860
-Boroondara,Camberwell,1/08/2016,2174429
-Boroondara,Camberwell,1/09/2016,2031819
-Boroondara,Camberwell,1/10/2016,1931759
-Boroondara,Camberwell,1/11/2016,1510309
-Boroondara,Camberwell,1/12/2016,1960129
-Boroondara,Camberwell,1/01/2017,1830524
-Boroondara,Camberwell,1/02/2017,2140156
-Boroondara,Camberwell,1/03/2017,1994654
-Boroondara,Camberwell,1/04/2017,1388154
-Boroondara,Camberwell,1/05/2017,2321167
-Boroondara,Camberwell,1/06/2017,1818598
-Boroondara,Camberwell,1/07/2017,1267068
-Boroondara,Camberwell,1/08/2017,1928012
-Boroondara,Camberwell,1/09/2017,2050648
-Boroondara,Camberwell,1/10/2017,1830524
-Boroondara,Camberwell,1/11/2017,1830524
-Boroondara,Camberwell,1/12/2017,1830524
-Boroondara,Canterbury,1/01/2016,2218289
-Boroondara,Canterbury,1/01/2016,2778864
-Boroondara,Canterbury,1/02/2016,2218289
-Boroondara,Canterbury,1/03/2016,2218289
-Boroondara,Canterbury,1/04/2016,1317238
-Boroondara,Canterbury,1/05/2016,3077349
-Boroondara,Canterbury,1/06/2016,1134080
-Boroondara,Canterbury,1/07/2016,1421594
-Boroondara,Canterbury,1/08/2016,2944280
-Boroondara,Canterbury,1/09/2016,1859540
-Boroondara,Canterbury,1/10/2016,2350644
-Boroondara,Canterbury,1/11/2016,2118858
-Boroondara,Canterbury,1/12/2016,2660973
-Boroondara,Canterbury,1/01/2017,2218289
-Boroondara,Canterbury,1/02/2017,3289432
-Boroondara,Canterbury,1/03/2017,2409025
-Boroondara,Canterbury,1/04/2017,2014000
-Boroondara,Canterbury,1/05/2017,3098145
-Boroondara,Canterbury,1/06/2017,1937691
-Boroondara,Canterbury,1/07/2017,816000
-Boroondara,Canterbury,1/08/2017,2319074
-Boroondara,Canterbury,1/09/2017,2382418
-Boroondara,Canterbury,1/10/2017,2218289
-Boroondara,Canterbury,1/11/2017,2218289
-Boroondara,Canterbury,1/12/2017,2218289
-Boroondara,Deepdene,1/01/2016,1715000
-Boroondara,Deepdene,1/02/2016,1715000
-Boroondara,Deepdene,1/03/2016,1715000
-Boroondara,Deepdene,1/04/2016,1715000
-Boroondara,Deepdene,1/05/2016,1715000
-Boroondara,Deepdene,1/06/2016,1715000
-Boroondara,Deepdene,1/07/2016,1715000
-Boroondara,Deepdene,1/08/2016,1715000
-Boroondara,Deepdene,1/09/2016,1715000
-Boroondara,Deepdene,1/10/2016,1715000
-Boroondara,Deepdene,1/11/2016,1715000
-Boroondara,Deepdene,1/12/2016,1715000
-Boroondara,Deepdene,1/01/2017,1715000
-Boroondara,Deepdene,1/02/2017,1715000
-Boroondara,Deepdene,1/03/2017,1715000
-Boroondara,Deepdene,1/04/2017,1715000
-Boroondara,Deepdene,1/05/2017,1715000
-Boroondara,Deepdene,1/06/2017,1715000
-Boroondara,Deepdene,1/07/2017,1715000
-Boroondara,Deepdene,1/08/2017,1715000
-Boroondara,Deepdene,1/09/2017,1715000
-Boroondara,Deepdene,1/10/2017,1715000
-Boroondara,Deepdene,1/11/2017,1715000
-Boroondara,Deepdene,1/12/2017,1715000
-Boroondara,Glen Iris,1/01/2016,1719604
-Boroondara,Glen Iris,1/02/2016,1719604
-Boroondara,Glen Iris,1/03/2016,1719604
-Boroondara,Glen Iris,1/04/2016,1813817
-Boroondara,Glen Iris,1/05/2016,1788852
-Boroondara,Glen Iris,1/06/2016,1504636
-Boroondara,Glen Iris,1/07/2016,1687216
-Boroondara,Glen Iris,1/08/2016,1782424
-Boroondara,Glen Iris,1/09/2016,1511910
-Boroondara,Glen Iris,1/10/2016,1728053
-Boroondara,Glen Iris,1/11/2016,1869739
-Boroondara,Glen Iris,1/12/2016,1737245
-Boroondara,Glen Iris,1/01/2017,1719604
-Boroondara,Glen Iris,1/02/2017,1809717
-Boroondara,Glen Iris,1/03/2017,1825356
-Boroondara,Glen Iris,1/04/2017,1623465
-Boroondara,Glen Iris,1/05/2017,1702708
-Boroondara,Glen Iris,1/06/2017,1903497
-Boroondara,Glen Iris,1/07/2017,1697940
-Boroondara,Glen Iris,1/08/2017,1761339
-Boroondara,Glen Iris,1/09/2017,1485345
-Boroondara,Glen Iris,1/10/2017,1719604
-Boroondara,Glen Iris,1/11/2017,1719604
-Boroondara,Glen Iris,1/12/2017,1719604
-Boroondara,Hawthorn,1/01/2016,1376518
-Boroondara,Hawthorn,1/02/2016,1376517
-Boroondara,Hawthorn,1/03/2016,1376517
-Boroondara,Hawthorn,1/04/2016,1904851
-Boroondara,Hawthorn,1/05/2016,1288945
-Boroondara,Hawthorn,1/06/2016,1461775
-Boroondara,Hawthorn,1/07/2016,890500
-Boroondara,Hawthorn,1/08/2016,1576312
-Boroondara,Hawthorn,1/09/2016,1365962
-Boroondara,Hawthorn,1/10/2016,1359378
-Boroondara,Hawthorn,1/11/2016,1145552
-Boroondara,Hawthorn,1/12/2016,1527639
-Boroondara,Hawthorn,1/01/2017,1376517
-Boroondara,Hawthorn,1/02/2017,1593212
-Boroondara,Hawthorn,1/03/2017,1586385
-Boroondara,Hawthorn,1/04/2017,538238
-Boroondara,Hawthorn,1/05/2017,1712911
-Boroondara,Hawthorn,1/06/2017,1702393
-Boroondara,Hawthorn,1/07/2017,870975
-Boroondara,Hawthorn,1/08/2017,1392198
-Boroondara,Hawthorn,1/09/2017,1483570
-Boroondara,Hawthorn,1/10/2017,1376517
-Boroondara,Hawthorn,1/11/2017,1376517
-Boroondara,Hawthorn,1/12/2017,1376518
-Boroondara,Hawthorn East,1/01/2016,1438205
-Boroondara,Hawthorn East,1/02/2016,1438205
-Boroondara,Hawthorn East,1/03/2016,1438205
-Boroondara,Hawthorn East,1/04/2016,1493284
-Boroondara,Hawthorn East,1/05/2016,1741940
-Boroondara,Hawthorn East,1/06/2016,1585630
-Boroondara,Hawthorn East,1/07/2016,1461627
-Boroondara,Hawthorn East,1/08/2016,1313672
-Boroondara,Hawthorn East,1/09/2016,1543198
-Boroondara,Hawthorn East,1/10/2016,1359362
-Boroondara,Hawthorn East,1/11/2016,1366733
-Boroondara,Hawthorn East,1/12/2016,1328237
-Boroondara,Hawthorn East,1/01/2017,1438205
-Boroondara,Hawthorn East,1/02/2017,1134871
-Boroondara,Hawthorn East,1/03/2017,2026561
-Boroondara,Hawthorn East,1/04/2017,786827
-Boroondara,Hawthorn East,1/05/2017,1518459
-Boroondara,Hawthorn East,1/06/2017,1707913
-Boroondara,Hawthorn East,1/07/2017,974000
-Boroondara,Hawthorn East,1/08/2017,1201386
-Boroondara,Hawthorn East,1/09/2017,1905783
-Boroondara,Hawthorn East,1/10/2017,1438205
-Boroondara,Hawthorn East,1/11/2017,1438205
-Boroondara,Hawthorn East,1/12/2017,1438205
-Boroondara,Kew,1/01/2016,1788089
-Boroondara,Kew,1/02/2016,1788089
-Boroondara,Kew,1/03/2016,1788089
-Boroondara,Kew,1/04/2016,1805286
-Boroondara,Kew,1/05/2016,2046841
-Boroondara,Kew,1/06/2016,1748762
-Boroondara,Kew,1/07/2016,1299691
-Boroondara,Kew,1/08/2016,1984799
-Boroondara,Kew,1/09/2016,1920079
-Boroondara,Kew,1/10/2016,1621433
-Boroondara,Kew,1/11/2016,1923601
-Boroondara,Kew,1/12/2016,1779377
-Boroondara,Kew,1/01/2017,1788089
-Boroondara,Kew,1/02/2017,1781368
-Boroondara,Kew,1/03/2017,2177500
-Boroondara,Kew,1/04/2017,1478768
-Boroondara,Kew,1/05/2017,1770039
-Boroondara,Kew,1/06/2017,1717396
-Boroondara,Kew,1/07/2017,1313336
-Boroondara,Kew,1/08/2017,1877610
-Boroondara,Kew,1/09/2017,2151630
-Boroondara,Kew,1/10/2017,1788089
-Boroondara,Kew,1/11/2017,1788089
-Boroondara,Kew,1/12/2017,1788089
-Boroondara,Kew East,1/01/2016,1720877
-Boroondara,Kew East,1/02/2016,1720877
-Boroondara,Kew East,1/03/2016,1720877
-Boroondara,Kew East,1/04/2016,2081000
-Boroondara,Kew East,1/05/2016,1661121
-Boroondara,Kew East,1/06/2016,1770000
-Boroondara,Kew East,1/07/2016,1615972
-Boroondara,Kew East,1/08/2016,1277996
-Boroondara,Kew East,1/09/2016,1474301
-Boroondara,Kew East,1/10/2016,1944600
-Boroondara,Kew East,1/11/2016,1657947
-Boroondara,Kew East,1/12/2016,2121166
-Boroondara,Kew East,1/01/2017,1720877
-Boroondara,Kew East,1/02/2017,1378718
-Boroondara,Kew East,1/03/2017,2119261
-Boroondara,Kew East,1/04/2017,1960750
-Boroondara,Kew East,1/05/2017,1407461
-Boroondara,Kew East,1/06/2017,2003243
-Boroondara,Kew East,1/07/2017,1325991
-Boroondara,Kew East,1/08/2017,1733049
-Boroondara,Kew East,1/09/2017,1722325
-Boroondara,Kew East,1/10/2017,1720877
-Boroondara,Kew East,1/11/2017,1720877
-Boroondara,Kew East,1/12/2017,1720877
-Boroondara,Mont Albert,1/01/2016,2200000
-Boroondara,Mont Albert,1/02/2016,2200000
-Boroondara,Mont Albert,1/03/2016,2200000
-Boroondara,Mont Albert,1/04/2016,2200000
-Boroondara,Mont Albert,1/05/2016,2200000
-Boroondara,Mont Albert,1/06/2016,2200000
-Boroondara,Mont Albert,1/07/2016,2200000
-Boroondara,Mont Albert,1/08/2016,2200000
-Boroondara,Mont Albert,1/09/2016,2200000
-Boroondara,Mont Albert,1/10/2016,2200000
-Boroondara,Mont Albert,1/11/2016,2200000
-Boroondara,Mont Albert,1/12/2016,2200000
-Boroondara,Mont Albert,1/01/2017,2200000
-Boroondara,Mont Albert,1/02/2017,2200000
-Boroondara,Mont Albert,1/03/2017,2200000
-Boroondara,Mont Albert,1/04/2017,2200000
-Boroondara,Mont Albert,1/05/2017,2200000
-Boroondara,Mont Albert,1/06/2017,2200000
-Boroondara,Mont Albert,1/07/2017,2200000
-Boroondara,Mont Albert,1/08/2017,2200000
-Boroondara,Mont Albert,1/09/2017,2200000
-Boroondara,Mont Albert,1/10/2017,2200000
-Boroondara,Mont Albert,1/11/2017,2200000
-Boroondara,Mont Albert,1/12/2017,2200000
-Boroondara,Surrey Hills,1/01/2016,1661865
-Boroondara,Surrey Hills,1/02/2016,1661865
-Boroondara,Surrey Hills,1/03/2016,1661865
-Boroondara,Surrey Hills,1/04/2016,1778130
-Boroondara,Surrey Hills,1/05/2016,1464992
-Boroondara,Surrey Hills,1/06/2016,1651531
-Boroondara,Surrey Hills,1/07/2016,1661865
-Boroondara,Surrey Hills,1/08/2016,1904497
-Boroondara,Surrey Hills,1/09/2016,1666978
-Boroondara,Surrey Hills,1/10/2016,1267630
-Boroondara,Surrey Hills,1/11/2016,1502395
-Boroondara,Surrey Hills,1/12/2016,1762359
-Boroondara,Surrey Hills,1/01/2017,1661865
-Boroondara,Surrey Hills,1/02/2017,1411580
-Boroondara,Surrey Hills,1/03/2017,1464065
-Boroondara,Surrey Hills,1/04/2017,2145432
-Boroondara,Surrey Hills,1/05/2017,1520309
-Boroondara,Surrey Hills,1/06/2017,1635078
-Boroondara,Surrey Hills,1/07/2017,1756250
-Boroondara,Surrey Hills,1/08/2017,1897968
-Boroondara,Surrey Hills,1/09/2017,1760641
-Boroondara,Surrey Hills,1/10/2017,1661865
-Boroondara,Surrey Hills,1/11/2017,1661865
-Boroondara,Surrey Hills,1/12/2017,1661865
-Manningham,Bulleen,1/01/2016,1156907
-Manningham,Bulleen,1/02/2016,1156907
-Manningham,Bulleen,1/03/2016,1156907
-Manningham,Bulleen,1/04/2016,1150500
-Manningham,Bulleen,1/05/2016,1223929
-Manningham,Bulleen,1/06/2016,1072714
-Manningham,Bulleen,1/07/2016,1038000
-Manningham,Bulleen,1/08/2016,1060772
-Manningham,Bulleen,1/09/2016,1194429
-Manningham,Bulleen,1/10/2016,1093469
-Manningham,Bulleen,1/11/2016,1192649
-Manningham,Bulleen,1/12/2016,1189444
-Manningham,Bulleen,1/01/2017,1156907
-Manningham,Bulleen,1/02/2017,1073333
-Manningham,Bulleen,1/03/2017,1305000
-Manningham,Bulleen,1/04/2017,1144144
-Manningham,Bulleen,1/05/2017,1074543
-Manningham,Bulleen,1/06/2017,1193333
-Manningham,Bulleen,1/07/2017,1210500
-Manningham,Bulleen,1/08/2017,1286333
-Manningham,Bulleen,1/09/2017,1164333
-Manningham,Bulleen,1/10/2017,1156907
-Manningham,Bulleen,1/11/2017,1156907
-Manningham,Bulleen,1/12/2017,1156907
-Manningham,Doncaster,1/01/2016,1206961
-Manningham,Doncaster,1/02/2016,1320000
-Manningham,Doncaster,1/03/2016,1206961
-Manningham,Doncaster,1/04/2016,1119238
-Manningham,Doncaster,1/05/2016,1203670
-Manningham,Doncaster,1/06/2016,1172979
-Manningham,Doncaster,1/07/2016,1130100
-Manningham,Doncaster,1/08/2016,928510
-Manningham,Doncaster,1/09/2016,1371525
-Manningham,Doncaster,1/10/2016,993787
-Manningham,Doncaster,1/11/2016,1227812
-Manningham,Doncaster,1/12/2016,1203394
-Manningham,Doncaster,1/01/2017,1206961
-Manningham,Doncaster,1/02/2017,1266053
-Manningham,Doncaster,1/03/2017,1263065
-Manningham,Doncaster,1/04/2017,1376076
-Manningham,Doncaster,1/05/2017,1167706
-Manningham,Doncaster,1/06/2017,1320226
-Manningham,Doncaster,1/07/2017,1213549
-Manningham,Doncaster,1/08/2017,1081513
-Manningham,Doncaster,1/09/2017,1366102
-Manningham,Doncaster,1/10/2017,1206961
-Manningham,Doncaster,1/11/2017,1206961
-Manningham,Doncaster,1/12/2017,1206961
-Manningham,Doncaster East,1/01/2016,1343874
-Manningham,Doncaster East,1/02/2016,1343874
-Manningham,Doncaster East,1/03/2016,1343874
-Manningham,Doncaster East,1/04/2016,1343874
-Manningham,Doncaster East,1/05/2016,1343874
-Manningham,Doncaster East,1/06/2016,1343874
-Manningham,Doncaster East,1/07/2016,1343874
-Manningham,Doncaster East,1/08/2016,1343874
-Manningham,Doncaster East,1/09/2016,1343874
-Manningham,Doncaster East,1/10/2016,1343874
-Manningham,Doncaster East,1/11/2016,1343874
-Manningham,Doncaster East,1/12/2016,1343874
-Manningham,Doncaster East,1/01/2017,1343874
-Manningham,Doncaster East,1/02/2017,1343874
-Manningham,Doncaster East,1/03/2017,1343874
-Manningham,Doncaster East,1/04/2017,1343874
-Manningham,Doncaster East,1/05/2017,1491857
-Manningham,Doncaster East,1/06/2017,1364110
-Manningham,Doncaster East,1/07/2017,1353431
-Manningham,Doncaster East,1/08/2017,1191340
-Manningham,Doncaster East,1/09/2017,1318630
-Manningham,Doncaster East,1/10/2017,1343874
-Manningham,Doncaster East,1/11/2017,1343874
-Manningham,Doncaster East,1/12/2017,1343874
-Manningham,Donvale,1/01/2016,1223300
-Manningham,Donvale,1/02/2016,1223300
-Manningham,Donvale,1/03/2016,1223300
-Manningham,Donvale,1/04/2016,1223300
-Manningham,Donvale,1/05/2016,1223300
-Manningham,Donvale,1/06/2016,1223300
-Manningham,Donvale,1/07/2016,1223300
-Manningham,Donvale,1/08/2016,1223300
-Manningham,Donvale,1/09/2016,1223300
-Manningham,Donvale,1/10/2016,1223300
-Manningham,Donvale,1/11/2016,1223300
-Manningham,Donvale,1/12/2016,1223300
-Manningham,Donvale,1/01/2017,1223300
-Manningham,Donvale,1/02/2017,1223300
-Manningham,Donvale,1/03/2017,1223300
-Manningham,Donvale,1/04/2017,1223300
-Manningham,Donvale,1/05/2017,1877700
-Manningham,Donvale,1/06/2017,991312
-Manningham,Donvale,1/07/2017,1061988
-Manningham,Donvale,1/08/2017,1297333
-Manningham,Donvale,1/09/2017,888167
-Manningham,Donvale,1/10/2017,1223300
-Manningham,Donvale,1/11/2017,1223300
-Manningham,Donvale,1/12/2017,1223300
-Manningham,Nunawading,1/01/2016,1214286
-Manningham,Nunawading,1/02/2016,1214286
-Manningham,Nunawading,1/03/2016,1214286
-Manningham,Nunawading,1/04/2016,1214286
-Manningham,Nunawading,1/05/2016,1214286
-Manningham,Nunawading,1/06/2016,1214286
-Manningham,Nunawading,1/07/2016,1214286
-Manningham,Nunawading,1/08/2016,1214286
-Manningham,Nunawading,1/09/2016,1214286
-Manningham,Nunawading,1/10/2016,1214286
-Manningham,Nunawading,1/11/2016,1214286
-Manningham,Nunawading,1/12/2016,1214286
-Manningham,Nunawading,1/01/2017,1214286
-Manningham,Nunawading,1/02/2017,1214286
-Manningham,Nunawading,1/03/2017,1214286
-Manningham,Nunawading,1/04/2017,1214286
-Manningham,Nunawading,1/05/2017,1214286
-Manningham,Nunawading,1/06/2017,1214286
-Manningham,Nunawading,1/07/2017,1214286
-Manningham,Nunawading,1/08/2017,1214286
-Manningham,Nunawading,1/09/2017,1214286
-Manningham,Nunawading,1/10/2017,1214286
-Manningham,Nunawading,1/11/2017,1214286
-Manningham,Nunawading,1/12/2017,1214286
-Manningham,Templestowe,1/01/2016,1560032
-Manningham,Templestowe,1/02/2016,1560032
-Manningham,Templestowe,1/03/2016,1560032
-Manningham,Templestowe,1/04/2016,1560032
-Manningham,Templestowe,1/05/2016,1560032
-Manningham,Templestowe,1/06/2016,1560032
-Manningham,Templestowe,1/07/2016,1560032
-Manningham,Templestowe,1/08/2016,1560032
-Manningham,Templestowe,1/09/2016,1560032
-Manningham,Templestowe,1/10/2016,1560032
-Manningham,Templestowe,1/11/2016,1560032
-Manningham,Templestowe,1/12/2016,1560032
-Manningham,Templestowe,1/01/2017,1560032
-Manningham,Templestowe,1/02/2017,1560032
-Manningham,Templestowe,1/03/2017,1560032
-Manningham,Templestowe,1/04/2017,1560032
-Manningham,Templestowe,1/05/2017,1783571
-Manningham,Templestowe,1/06/2017,1552300
-Manningham,Templestowe,1/07/2017,1345300
-Manningham,Templestowe,1/08/2017,1604015
-Manningham,Templestowe,1/09/2017,1514971
-Manningham,Templestowe,1/10/2017,1560032
-Manningham,Templestowe,1/11/2017,1560032
-Manningham,Templestowe,1/12/2017,1560032
-Manningham,Templestowe Lower,1/01/2016,1156413
-Manningham,Templestowe Lower,1/02/2016,1156413
-Manningham,Templestowe Lower,1/03/2016,1156413
-Manningham,Templestowe Lower,1/04/2016,1115440
-Manningham,Templestowe Lower,1/05/2016,1087094
-Manningham,Templestowe Lower,1/06/2016,997014
-Manningham,Templestowe Lower,1/07/2016,1289750
-Manningham,Templestowe Lower,1/08/2016,1115637
-Manningham,Templestowe Lower,1/09/2016,1104582
-Manningham,Templestowe Lower,1/10/2016,945400
-Manningham,Templestowe Lower,1/11/2016,1234829
-Manningham,Templestowe Lower,1/12/2016,1014106
-Manningham,Templestowe Lower,1/01/2017,1156413
-Manningham,Templestowe Lower,1/02/2017,923085
-Manningham,Templestowe Lower,1/03/2017,1153133
-Manningham,Templestowe Lower,1/04/2017,1376511
-Manningham,Templestowe Lower,1/05/2017,1261580
-Manningham,Templestowe Lower,1/06/2017,1139850
-Manningham,Templestowe Lower,1/07/2017,1305689
-Manningham,Templestowe Lower,1/08/2017,1239329
-Manningham,Templestowe Lower,1/09/2017,1356000
-Manningham,Templestowe Lower,1/10/2017,1156413
-Manningham,Templestowe Lower,1/11/2017,1156413
-Manningham,Templestowe Lower,1/12/2017,1156413
-Manningham,Warrandyte,1/01/2016,1170600
-Manningham,Warrandyte,1/02/2016,1170600
-Manningham,Warrandyte,1/03/2016,1170600
-Manningham,Warrandyte,1/04/2016,1170600
-Manningham,Warrandyte,1/05/2016,1170600
-Manningham,Warrandyte,1/06/2016,1170600
-Manningham,Warrandyte,1/07/2016,1170600
-Manningham,Warrandyte,1/08/2016,1170600
-Manningham,Warrandyte,1/09/2016,1170600
-Manningham,Warrandyte,1/10/2016,1170600
-Manningham,Warrandyte,1/11/2016,1170600
-Manningham,Warrandyte,1/12/2016,1170600
-Manningham,Warrandyte,1/01/2017,1170600
-Manningham,Warrandyte,1/02/2017,1170600
-Manningham,Warrandyte,1/03/2017,1170600
-Manningham,Warrandyte,1/04/2017,1170600
-Manningham,Warrandyte,1/05/2017,1050000
-Manningham,Warrandyte,1/06/2017,1025000
-Manningham,Warrandyte,1/07/2017,1028000
-Manningham,Warrandyte,1/08/2017,1600000
-Manningham,Warrandyte,1/09/2017,1150000
-Manningham,Warrandyte,1/10/2017,1170600
-Manningham,Warrandyte,1/11/2017,1170600
-Manningham,Warrandyte,1/12/2017,1170600
-Stonnington,Armadale,1/01/2016,1616498
-Stonnington,Armadale,1/02/2016,1616498
-Stonnington,Armadale,1/03/2016,1616498
-Stonnington,Armadale,1/04/2016,1894136
-Stonnington,Armadale,1/05/2016,1646802
-Stonnington,Armadale,1/06/2016,1756465
-Stonnington,Armadale,1/07/2016,958985
-Stonnington,Armadale,1/08/2016,1312012
-Stonnington,Armadale,1/09/2016,2019816
-Stonnington,Armadale,1/10/2016,1910188
-Stonnington,Armadale,1/11/2016,2026238
-Stonnington,Armadale,1/12/2016,1407514
-Stonnington,Armadale,1/01/2017,1616498
-Stonnington,Armadale,1/02/2017,1524587
-Stonnington,Armadale,1/03/2017,1515272
-Stonnington,Armadale,1/04/2017,1031830
-Stonnington,Armadale,1/05/2017,1629191
-Stonnington,Armadale,1/06/2017,2305439
-Stonnington,Armadale,1/07/2017,734142
-Stonnington,Armadale,1/08/2017,1702781
-Stonnington,Armadale,1/09/2017,2105063
-Stonnington,Armadale,1/10/2017,1616498
-Stonnington,Armadale,1/11/2017,1616498
-Stonnington,Armadale,1/12/2017,1616498
-Stonnington,Glen Iris,1/01/2016,1341176
-Stonnington,Glen Iris,1/02/2016,1341176
-Stonnington,Glen Iris,1/03/2016,1341176
-Stonnington,Glen Iris,1/04/2016,1609732
-Stonnington,Glen Iris,1/05/2016,1775962
-Stonnington,Glen Iris,1/06/2016,1483453
-Stonnington,Glen Iris,1/07/2016,966583
-Stonnington,Glen Iris,1/08/2016,925000
-Stonnington,Glen Iris,1/09/2016,2256714
-Stonnington,Glen Iris,1/10/2016,1238922
-Stonnington,Glen Iris,1/11/2016,1162374
-Stonnington,Glen Iris,1/12/2016,452000
-Stonnington,Glen Iris,1/01/2017,1341176
-Stonnington,Glen Iris,1/02/2017,1362866
-Stonnington,Glen Iris,1/03/2017,1847497
-Stonnington,Glen Iris,1/04/2017,987000
-Stonnington,Glen Iris,1/05/2017,1725530
-Stonnington,Glen Iris,1/06/2017,1999290
-Stonnington,Glen Iris,1/07/2017,550890
-Stonnington,Glen Iris,1/08/2017,1115000
-Stonnington,Glen Iris,1/09/2017,1341176
-Stonnington,Glen Iris,1/10/2017,1341176
-Stonnington,Glen Iris,1/11/2017,1341176
-Stonnington,Glen Iris,1/12/2017,1341176
-Stonnington,Kooyong,1/01/2016,1496656
-Stonnington,Kooyong,1/02/2016,1496656
-Stonnington,Kooyong,1/03/2016,1496656
-Stonnington,Kooyong,1/04/2016,1496656
-Stonnington,Kooyong,1/05/2016,1496656
-Stonnington,Kooyong,1/06/2016,1496656
-Stonnington,Kooyong,1/07/2016,1496656
-Stonnington,Kooyong,1/08/2016,1496656
-Stonnington,Kooyong,1/09/2016,926667
-Stonnington,Kooyong,1/10/2016,1290000
-Stonnington,Kooyong,1/11/2016,1538417
-Stonnington,Kooyong,1/12/2016,1496656
-Stonnington,Kooyong,1/01/2017,1496656
-Stonnington,Kooyong,1/02/2017,2447500
-Stonnington,Kooyong,1/03/2017,1706000
-Stonnington,Kooyong,1/04/2017,1496656
-Stonnington,Kooyong,1/05/2017,1496656
-Stonnington,Kooyong,1/06/2017,1188000
-Stonnington,Kooyong,1/07/2017,926667
-Stonnington,Kooyong,1/08/2017,1950000
-Stonnington,Kooyong,1/09/2017,1496656
-Stonnington,Kooyong,1/10/2017,1496656
-Stonnington,Kooyong,1/11/2017,1496656
-Stonnington,Kooyong,1/12/2017,1496656
-Stonnington,Malvern,1/01/2016,1859204
-Stonnington,Malvern,1/02/2016,1859204
-Stonnington,Malvern,1/03/2016,1859204
-Stonnington,Malvern,1/04/2016,1437000
-Stonnington,Malvern,1/05/2016,1724318
-Stonnington,Malvern,1/06/2016,1905100
-Stonnington,Malvern,1/07/2016,1932232
-Stonnington,Malvern,1/08/2016,2723374
-Stonnington,Malvern,1/09/2016,1851407
-Stonnington,Malvern,1/10/2016,1136619
-Stonnington,Malvern,1/11/2016,1841385
-Stonnington,Malvern,1/12/2016,2561863
-Stonnington,Malvern,1/01/2017,1859204
-Stonnington,Malvern,1/02/2017,2389283
-Stonnington,Malvern,1/03/2017,1904050
-Stonnington,Malvern,1/04/2017,1098481
-Stonnington,Malvern,1/05/2017,2060036
-Stonnington,Malvern,1/06/2017,2500948
-Stonnington,Malvern,1/07/2017,456500
-Stonnington,Malvern,1/08/2017,2098923
-Stonnington,Malvern,1/09/2017,1984944
-Stonnington,Malvern,1/10/2017,1859204
-Stonnington,Malvern,1/11/2017,1859204
-Stonnington,Malvern,1/12/2017,1859204
-Stonnington,Malvern East,1/01/2016,1474937
-Stonnington,Malvern East,1/02/2016,350000
-Stonnington,Malvern East,1/03/2016,1474937
-Stonnington,Malvern East,1/04/2016,1347484
-Stonnington,Malvern East,1/05/2016,1463641
-Stonnington,Malvern East,1/06/2016,1352625
-Stonnington,Malvern East,1/07/2016,1420260
-Stonnington,Malvern East,1/08/2016,1655068
-Stonnington,Malvern East,1/09/2016,1286930
-Stonnington,Malvern East,1/10/2016,1499405
-Stonnington,Malvern East,1/11/2016,1395763
-Stonnington,Malvern East,1/12/2016,1841275
-Stonnington,Malvern East,1/01/2017,1474937
-Stonnington,Malvern East,1/02/2017,1632715
-Stonnington,Malvern East,1/03/2017,1516512
-Stonnington,Malvern East,1/04/2017,1508191
-Stonnington,Malvern East,1/05/2017,1582282
-Stonnington,Malvern East,1/06/2017,1947949
-Stonnington,Malvern East,1/07/2017,1338917
-Stonnington,Malvern East,1/08/2017,1867128
-Stonnington,Malvern East,1/09/2017,1542730
-Stonnington,Malvern East,1/10/2017,1474937
-Stonnington,Malvern East,1/11/2017,1474937
-Stonnington,Malvern East,1/12/2017,1474937
-Stonnington,Oakleigh,1/01/2016,995167
-Stonnington,Oakleigh,1/02/2016,995167
-Stonnington,Oakleigh,1/03/2016,995167
-Stonnington,Oakleigh,1/04/2016,995167
-Stonnington,Oakleigh,1/05/2016,995167
-Stonnington,Oakleigh,1/06/2016,995167
-Stonnington,Oakleigh,1/07/2016,995167
-Stonnington,Oakleigh,1/08/2016,995167
-Stonnington,Oakleigh,1/09/2016,995167
-Stonnington,Oakleigh,1/10/2016,995167
-Stonnington,Oakleigh,1/11/2016,995167
-Stonnington,Oakleigh,1/12/2016,995167
-Stonnington,Oakleigh,1/01/2017,995167
-Stonnington,Oakleigh,1/02/2017,995167
-Stonnington,Oakleigh,1/03/2017,995167
-Stonnington,Oakleigh,1/04/2017,995167
-Stonnington,Oakleigh,1/05/2017,995167
-Stonnington,Oakleigh,1/06/2017,995167
-Stonnington,Oakleigh,1/07/2017,995167
-Stonnington,Oakleigh,1/08/2017,995167
-Stonnington,Oakleigh,1/09/2017,995167
-Stonnington,Oakleigh,1/10/2017,995167
-Stonnington,Oakleigh,1/11/2017,995167
-Stonnington,Oakleigh,1/12/2017,995167
-Stonnington,Prahran,1/01/2016,1149833
-Stonnington,Prahran,1/02/2016,1149833
-Stonnington,Prahran,1/03/2016,1149833
-Stonnington,Prahran,1/04/2016,1113062
-Stonnington,Prahran,1/05/2016,1311823
-Stonnington,Prahran,1/06/2016,1024995
-Stonnington,Prahran,1/07/2016,1262842
-Stonnington,Prahran,1/08/2016,888014
-Stonnington,Prahran,1/09/2016,1042856
-Stonnington,Prahran,1/10/2016,1144651
-Stonnington,Prahran,1/11/2016,1140444
-Stonnington,Prahran,1/12/2016,1145032
-Stonnington,Prahran,1/01/2017,1149833
-Stonnington,Prahran,1/02/2017,1352290
-Stonnington,Prahran,1/03/2017,1123232
-Stonnington,Prahran,1/04/2017,1138764
-Stonnington,Prahran,1/05/2017,1060799
-Stonnington,Prahran,1/06/2017,1235649
-Stonnington,Prahran,1/07/2017,766403
-Stonnington,Prahran,1/08/2017,1480840
-Stonnington,Prahran,1/09/2017,1315460
-Stonnington,Prahran,1/10/2017,1149833
-Stonnington,Prahran,1/11/2017,1149833
-Stonnington,Prahran,1/12/2017,1149833
-Stonnington,South Yarra,1/01/2016,1011770
-Stonnington,South Yarra,1/02/2016,1011770
-Stonnington,South Yarra,1/03/2016,1011770
-Stonnington,South Yarra,1/04/2016,1227041
-Stonnington,South Yarra,1/05/2016,999481
-Stonnington,South Yarra,1/06/2016,896751
-Stonnington,South Yarra,1/07/2016,545571
-Stonnington,South Yarra,1/08/2016,828751
-Stonnington,South Yarra,1/09/2016,921244
-Stonnington,South Yarra,1/10/2016,1123030
-Stonnington,South Yarra,1/11/2016,1578339
-Stonnington,South Yarra,1/12/2016,1055475
-Stonnington,South Yarra,1/01/2017,1011770
-Stonnington,South Yarra,1/02/2017,935650
-Stonnington,South Yarra,1/03/2017,1121234
-Stonnington,South Yarra,1/04/2017,1138127
-Stonnington,South Yarra,1/05/2017,1299196
-Stonnington,South Yarra,1/06/2017,947914
-Stonnington,South Yarra,1/07/2017,796267
-Stonnington,South Yarra,1/08/2017,712011
-Stonnington,South Yarra,1/09/2017,1074008
-Stonnington,South Yarra,1/10/2017,1011770
-Stonnington,South Yarra,1/11/2017,1011770
-Stonnington,South Yarra,1/12/2017,1011770
-Stonnington,Toorak,1/01/2016,1795183
-Stonnington,Toorak,1/02/2016,1795183
-Stonnington,Toorak,1/03/2016,1795183
-Stonnington,Toorak,1/04/2016,2149599
-Stonnington,Toorak,1/05/2016,1709561
-Stonnington,Toorak,1/06/2016,1455156
-Stonnington,Toorak,1/07/2016,894133
-Stonnington,Toorak,1/08/2016,1962746
-Stonnington,Toorak,1/09/2016,1697645
-Stonnington,Toorak,1/10/2016,1960453
-Stonnington,Toorak,1/11/2016,2121475
-Stonnington,Toorak,1/12/2016,2396304
-Stonnington,Toorak,1/01/2017,1795183
-Stonnington,Toorak,1/02/2017,1742705
-Stonnington,Toorak,1/03/2017,2158995
-Stonnington,Toorak,1/04/2017,1290700
-Stonnington,Toorak,1/05/2017,2394684
-Stonnington,Toorak,1/06/2017,1860310
-Stonnington,Toorak,1/07/2017,1258451
-Stonnington,Toorak,1/08/2017,1530004
-Stonnington,Toorak,1/09/2017,1935187
-Stonnington,Toorak,1/10/2017,1795183
-Stonnington,Toorak,1/11/2017,1795183
-Stonnington,Toorak,1/12/2017,1795183
-Stonnington,Windsor,1/01/2016,1008899
-Stonnington,Windsor,1/02/2016,1008899
-Stonnington,Windsor,1/03/2016,1008899
-Stonnington,Windsor,1/04/2016,1008899
-Stonnington,Windsor,1/05/2016,954053
-Stonnington,Windsor,1/06/2016,1989030
-Stonnington,Windsor,1/07/2016,1008899
-Stonnington,Windsor,1/08/2016,986667
-Stonnington,Windsor,1/09/2016,1105030
-Stonnington,Windsor,1/10/2016,662346
-Stonnington,Windsor,1/11/2016,1140833
-Stonnington,Windsor,1/12/2016,954134
-Stonnington,Windsor,1/01/2017,1008899
-Stonnington,Windsor,1/02/2017,452000
-Stonnington,Windsor,1/03/2017,1426377
-Stonnington,Windsor,1/04/2017,779667
-Stonnington,Windsor,1/05/2017,747346
-Stonnington,Windsor,1/06/2017,1310548
-Stonnington,Windsor,1/07/2017,751553
-Stonnington,Windsor,1/08/2017,865000
-Stonnington,Windsor,1/09/2017,1008899
-Stonnington,Windsor,1/10/2017,1008899
-Stonnington,Windsor,1/11/2017,1008899
-Stonnington,Windsor,1/12/2017,1008899
-Whitehorse,Blackburn,1/01/2016,1306116
-Whitehorse,Blackburn,1/02/2016,1306116
-Whitehorse,Blackburn,1/03/2016,1306116
-Whitehorse,Blackburn,1/04/2016,1306116
-Whitehorse,Blackburn,1/05/2016,1306116
-Whitehorse,Blackburn,1/06/2016,1306116
-Whitehorse,Blackburn,1/07/2016,1306116
-Whitehorse,Blackburn,1/08/2016,1306116
-Whitehorse,Blackburn,1/09/2016,1306116
-Whitehorse,Blackburn,1/10/2016,1306116
-Whitehorse,Blackburn,1/11/2016,1306116
-Whitehorse,Blackburn,1/12/2016,1306116
-Whitehorse,Blackburn,1/01/2017,1306116
-Whitehorse,Blackburn,1/02/2017,1306116
-Whitehorse,Blackburn,1/03/2017,1306116
-Whitehorse,Blackburn,1/04/2017,1306116
-Whitehorse,Blackburn,1/05/2017,1306116
-Whitehorse,Blackburn,1/06/2017,1363765
-Whitehorse,Blackburn,1/07/2017,1173675
-Whitehorse,Blackburn,1/08/2017,1232546
-Whitehorse,Blackburn,1/09/2017,1454476
-Whitehorse,Blackburn,1/10/2017,1306116
-Whitehorse,Blackburn,1/11/2017,1306116
-Whitehorse,Blackburn,1/12/2017,1306116
-Whitehorse,Blackburn North,1/01/2016,1119739
-Whitehorse,Blackburn North,1/02/2016,1119739
-Whitehorse,Blackburn North,1/03/2016,1119739
-Whitehorse,Blackburn North,1/04/2016,1119739
-Whitehorse,Blackburn North,1/05/2016,1119739
-Whitehorse,Blackburn North,1/06/2016,1119739
-Whitehorse,Blackburn North,1/07/2016,1119739
-Whitehorse,Blackburn North,1/08/2016,1119739
-Whitehorse,Blackburn North,1/09/2016,1119739
-Whitehorse,Blackburn North,1/10/2016,1119739
-Whitehorse,Blackburn North,1/11/2016,1119739
-Whitehorse,Blackburn North,1/12/2016,1119739
-Whitehorse,Blackburn North,1/01/2017,1119739
-Whitehorse,Blackburn North,1/02/2017,1119739
-Whitehorse,Blackburn North,1/03/2017,1119739
-Whitehorse,Blackburn North,1/04/2017,1119739
-Whitehorse,Blackburn North,1/05/2017,1119739
-Whitehorse,Blackburn North,1/06/2017,1029500
-Whitehorse,Blackburn North,1/07/2017,985056
-Whitehorse,Blackburn North,1/08/2017,1275000
-Whitehorse,Blackburn North,1/09/2017,1189400
-Whitehorse,Blackburn North,1/10/2017,1119739
-Whitehorse,Blackburn North,1/11/2017,1119739
-Whitehorse,Blackburn North,1/12/2017,1119739
-Whitehorse,Blackburn South,1/01/2016,1117430
-Whitehorse,Blackburn South,1/02/2016,1117430
-Whitehorse,Blackburn South,1/03/2016,1117430
-Whitehorse,Blackburn South,1/04/2016,1117430
-Whitehorse,Blackburn South,1/05/2016,1117430
-Whitehorse,Blackburn South,1/06/2016,1117430
-Whitehorse,Blackburn South,1/07/2016,1117430
-Whitehorse,Blackburn South,1/08/2016,1117430
-Whitehorse,Blackburn South,1/09/2016,1117430
-Whitehorse,Blackburn South,1/10/2016,1117430
-Whitehorse,Blackburn South,1/11/2016,1117430
-Whitehorse,Blackburn South,1/12/2016,1117430
-Whitehorse,Blackburn South,1/01/2017,1117430
-Whitehorse,Blackburn South,1/02/2017,1117430
-Whitehorse,Blackburn South,1/03/2017,1117430
-Whitehorse,Blackburn South,1/04/2017,1117430
-Whitehorse,Blackburn South,1/05/2017,1258000
-Whitehorse,Blackburn South,1/06/2017,1111261
-Whitehorse,Blackburn South,1/07/2017,1025510
-Whitehorse,Blackburn South,1/08/2017,1097367
-Whitehorse,Blackburn South,1/09/2017,1095011
-Whitehorse,Blackburn South,1/10/2017,1117430
-Whitehorse,Blackburn South,1/11/2017,1117430
-Whitehorse,Blackburn South,1/12/2017,1117430
-Whitehorse,Box Hill,1/01/2016,1312809
-Whitehorse,Box Hill,1/02/2016,1312809
-Whitehorse,Box Hill,1/03/2016,1312809
-Whitehorse,Box Hill,1/04/2016,1056667
-Whitehorse,Box Hill,1/05/2016,1250208
-Whitehorse,Box Hill,1/06/2016,1568011
-Whitehorse,Box Hill,1/07/2016,1080867
-Whitehorse,Box Hill,1/08/2016,832437
-Whitehorse,Box Hill,1/09/2016,1508962
-Whitehorse,Box Hill,1/10/2016,1173042
-Whitehorse,Box Hill,1/11/2016,1381075
-Whitehorse,Box Hill,1/12/2016,1344965
-Whitehorse,Box Hill,1/01/2017,1312809
-Whitehorse,Box Hill,1/02/2017,1710000
-Whitehorse,Box Hill,1/03/2017,677454
-Whitehorse,Box Hill,1/04/2017,1428687
-Whitehorse,Box Hill,1/05/2017,1244048
-Whitehorse,Box Hill,1/06/2017,1862666
-Whitehorse,Box Hill,1/07/2017,1606954
-Whitehorse,Box Hill,1/08/2017,1083144
-Whitehorse,Box Hill,1/09/2017,1508572
-Whitehorse,Box Hill,1/10/2017,1312809
-Whitehorse,Box Hill,1/11/2017,1312809
-Whitehorse,Box Hill,1/12/2017,1312809
-Whitehorse,Burwood,1/01/2016,1237264
-Whitehorse,Burwood,1/02/2016,1453000
-Whitehorse,Burwood,1/03/2016,1237264
-Whitehorse,Burwood,1/04/2016,1449832
-Whitehorse,Burwood,1/05/2016,1224542
-Whitehorse,Burwood,1/06/2016,1177893
-Whitehorse,Burwood,1/07/2016,813033
-Whitehorse,Burwood,1/08/2016,1098839
-Whitehorse,Burwood,1/09/2016,1077898
-Whitehorse,Burwood,1/10/2016,1387722
-Whitehorse,Burwood,1/11/2016,1216085
-Whitehorse,Burwood,1/12/2016,1394259
-Whitehorse,Burwood,1/01/2017,1237264
-Whitehorse,Burwood,1/02/2017,1186954
-Whitehorse,Burwood,1/03/2017,1194426
-Whitehorse,Burwood,1/04/2017,1241038
-Whitehorse,Burwood,1/05/2017,1185303
-Whitehorse,Burwood,1/06/2017,1080813
-Whitehorse,Burwood,1/07/2017,1399921
-Whitehorse,Burwood,1/08/2017,1335377
-Whitehorse,Burwood,1/09/2017,1353821
-Whitehorse,Burwood,1/10/2017,1237264
-Whitehorse,Burwood,1/11/2017,1237264
-Whitehorse,Burwood,1/12/2017,1237264
-Whitehorse,Burwood East,1/01/2016,1021224
-Whitehorse,Burwood East,1/02/2016,1021224
-Whitehorse,Burwood East,1/03/2016,1021224
-Whitehorse,Burwood East,1/04/2016,1021224
-Whitehorse,Burwood East,1/05/2016,1021224
-Whitehorse,Burwood East,1/06/2016,1021224
-Whitehorse,Burwood East,1/07/2016,1021224
-Whitehorse,Burwood East,1/08/2016,1021224
-Whitehorse,Burwood East,1/09/2016,1021224
-Whitehorse,Burwood East,1/10/2016,1021224
-Whitehorse,Burwood East,1/11/2016,1021224
-Whitehorse,Burwood East,1/12/2016,1021224
-Whitehorse,Burwood East,1/01/2017,1021224
-Whitehorse,Burwood East,1/02/2017,1021224
-Whitehorse,Burwood East,1/03/2017,1021224
-Whitehorse,Burwood East,1/04/2017,1021224
-Whitehorse,Burwood East,1/05/2017,780000
-Whitehorse,Burwood East,1/06/2017,1149496
-Whitehorse,Burwood East,1/07/2017,1166117
-Whitehorse,Burwood East,1/08/2017,1000000
-Whitehorse,Burwood East,1/09/2017,1010508
-Whitehorse,Burwood East,1/10/2017,1021224
-Whitehorse,Burwood East,1/11/2017,1021224
-Whitehorse,Burwood East,1/12/2017,1021224
-Whitehorse,Forest Hill,1/01/2016,961962
-Whitehorse,Forest Hill,1/02/2016,961962
-Whitehorse,Forest Hill,1/03/2016,961962
-Whitehorse,Forest Hill,1/04/2016,961962
-Whitehorse,Forest Hill,1/05/2016,961962
-Whitehorse,Forest Hill,1/06/2016,961962
-Whitehorse,Forest Hill,1/07/2016,961962
-Whitehorse,Forest Hill,1/08/2016,961962
-Whitehorse,Forest Hill,1/09/2016,961962
-Whitehorse,Forest Hill,1/10/2016,961962
-Whitehorse,Forest Hill,1/11/2016,961962
-Whitehorse,Forest Hill,1/12/2016,961962
-Whitehorse,Forest Hill,1/01/2017,961962
-Whitehorse,Forest Hill,1/02/2017,961962
-Whitehorse,Forest Hill,1/03/2017,961962
-Whitehorse,Forest Hill,1/04/2017,961962
-Whitehorse,Forest Hill,1/05/2017,886072
-Whitehorse,Forest Hill,1/06/2017,982656
-Whitehorse,Forest Hill,1/07/2017,1017756
-Whitehorse,Forest Hill,1/08/2017,949078
-Whitehorse,Forest Hill,1/09/2017,974248
-Whitehorse,Forest Hill,1/10/2017,961962
-Whitehorse,Forest Hill,1/11/2017,961962
-Whitehorse,Forest Hill,1/12/2017,961962
-Whitehorse,Mitcham,1/01/2016,968998
-Whitehorse,Mitcham,1/02/2016,968998
-Whitehorse,Mitcham,1/03/2016,968998
-Whitehorse,Mitcham,1/04/2016,968998
-Whitehorse,Mitcham,1/05/2016,968998
-Whitehorse,Mitcham,1/06/2016,968998
-Whitehorse,Mitcham,1/07/2016,968998
-Whitehorse,Mitcham,1/08/2016,968998
-Whitehorse,Mitcham,1/09/2016,968998
-Whitehorse,Mitcham,1/10/2016,968998
-Whitehorse,Mitcham,1/11/2016,968998
-Whitehorse,Mitcham,1/12/2016,968998
-Whitehorse,Mitcham,1/01/2017,968998
-Whitehorse,Mitcham,1/02/2017,968998
-Whitehorse,Mitcham,1/03/2017,968998
-Whitehorse,Mitcham,1/04/2017,968998
-Whitehorse,Mitcham,1/05/2017,895886
-Whitehorse,Mitcham,1/06/2017,1046552
-Whitehorse,Mitcham,1/07/2017,964778
-Whitehorse,Mitcham,1/08/2017,896780
-Whitehorse,Mitcham,1/09/2017,1040995
-Whitehorse,Mitcham,1/10/2017,968998
-Whitehorse,Mitcham,1/11/2017,968998
-Whitehorse,Mitcham,1/12/2017,968998
-Whitehorse,Mont Albert,1/01/2016,1567977
-Whitehorse,Mont Albert,1/02/2016,750000
-Whitehorse,Mont Albert,1/03/2016,1567977
-Whitehorse,Mont Albert,1/04/2016,1567977
-Whitehorse,Mont Albert,1/05/2016,1114204
-Whitehorse,Mont Albert,1/06/2016,1720700
-Whitehorse,Mont Albert,1/07/2016,908000
-Whitehorse,Mont Albert,1/08/2016,1857353
-Whitehorse,Mont Albert,1/09/2016,1570975
-Whitehorse,Mont Albert,1/10/2016,1268333
-Whitehorse,Mont Albert,1/11/2016,1555388
-Whitehorse,Mont Albert,1/12/2016,1169495
-Whitehorse,Mont Albert,1/01/2017,1567977
-Whitehorse,Mont Albert,1/02/2017,3079706
-Whitehorse,Mont Albert,1/03/2017,2039498
-Whitehorse,Mont Albert,1/04/2017,1316955
-Whitehorse,Mont Albert,1/05/2017,1457042
-Whitehorse,Mont Albert,1/06/2017,1746267
-Whitehorse,Mont Albert,1/07/2017,1686619
-Whitehorse,Mont Albert,1/08/2017,1929706
-Whitehorse,Mont Albert,1/09/2017,1485365
-Whitehorse,Mont Albert,1/10/2017,1567977
-Whitehorse,Mont Albert,1/11/2017,1567977
-Whitehorse,Mont Albert,1/12/2017,1567977
-Whitehorse,Nunawading,1/01/2016,1025285
-Whitehorse,Nunawading,1/02/2016,1025285
-Whitehorse,Nunawading,1/03/2016,1025285
-Whitehorse,Nunawading,1/04/2016,1025285
-Whitehorse,Nunawading,1/05/2016,1025285
-Whitehorse,Nunawading,1/06/2016,1025285
-Whitehorse,Nunawading,1/07/2016,1025285
-Whitehorse,Nunawading,1/08/2016,1025285
-Whitehorse,Nunawading,1/09/2016,1025285
-Whitehorse,Nunawading,1/10/2016,1025285
-Whitehorse,Nunawading,1/11/2016,1025285
-Whitehorse,Nunawading,1/12/2016,1025285
-Whitehorse,Nunawading,1/01/2017,1025285
-Whitehorse,Nunawading,1/02/2017,1025285
-Whitehorse,Nunawading,1/03/2017,1025285
-Whitehorse,Nunawading,1/04/2017,1025285
-Whitehorse,Nunawading,1/05/2017,1194000
-Whitehorse,Nunawading,1/06/2017,1040214
-Whitehorse,Nunawading,1/07/2017,933924
-Whitehorse,Nunawading,1/08/2017,1011737
-Whitehorse,Nunawading,1/09/2017,946548
-Whitehorse,Nunawading,1/10/2017,1025285
-Whitehorse,Nunawading,1/11/2017,1025285
-Whitehorse,Nunawading,1/12/2017,1025285
-Whitehorse,Surrey Hills,1/01/2016,1516076
-Whitehorse,Surrey Hills,1/01/2016,1009000
-Whitehorse,Surrey Hills,1/02/2016,930000
-Whitehorse,Surrey Hills,1/03/2016,1516076
-Whitehorse,Surrey Hills,1/04/2016,1460230
-Whitehorse,Surrey Hills,1/05/2016,1437291
-Whitehorse,Surrey Hills,1/06/2016,1607355
-Whitehorse,Surrey Hills,1/07/2016,2050000
-Whitehorse,Surrey Hills,1/08/2016,1975000
-Whitehorse,Surrey Hills,1/09/2016,1368630
-Whitehorse,Surrey Hills,1/10/2016,1658133
-Whitehorse,Surrey Hills,1/11/2016,1396782
-Whitehorse,Surrey Hills,1/12/2016,1667037
-Whitehorse,Surrey Hills,1/01/2017,1516076
-Whitehorse,Surrey Hills,1/02/2017,1327790
-Whitehorse,Surrey Hills,1/03/2017,1529736
-Whitehorse,Surrey Hills,1/04/2017,1506260
-Whitehorse,Surrey Hills,1/05/2017,1542354
-Whitehorse,Surrey Hills,1/06/2017,1701574
-Whitehorse,Surrey Hills,1/07/2017,1453200
-Whitehorse,Surrey Hills,1/08/2017,1669000
-Whitehorse,Surrey Hills,1/09/2017,1516076
-Whitehorse,Surrey Hills,1/10/2017,1516076
-Whitehorse,Surrey Hills,1/11/2017,1516076
-Whitehorse,Surrey Hills,1/12/2017,1516076
-Whitehorse,Vermont,1/01/2016,1037104
-Whitehorse,Vermont,1/02/2016,1037104
-Whitehorse,Vermont,1/03/2016,1037104
-Whitehorse,Vermont,1/04/2016,1037104
-Whitehorse,Vermont,1/05/2016,1037104
-Whitehorse,Vermont,1/06/2016,1037104
-Whitehorse,Vermont,1/07/2016,1037104
-Whitehorse,Vermont,1/08/2016,1037104
-Whitehorse,Vermont,1/09/2016,1037104
-Whitehorse,Vermont,1/10/2016,1037104
-Whitehorse,Vermont,1/11/2016,1037104
-Whitehorse,Vermont,1/12/2016,1037104
-Whitehorse,Vermont,1/01/2017,1037104
-Whitehorse,Vermont,1/02/2017,1037104
-Whitehorse,Vermont,1/03/2017,1037104
-Whitehorse,Vermont,1/04/2017,1037104
-Whitehorse,Vermont,1/05/2017,1163792
-Whitehorse,Vermont,1/06/2017,1068200
-Whitehorse,Vermont,1/07/2017,1005500
-Whitehorse,Vermont,1/08/2017,999450
-Whitehorse,Vermont,1/09/2017,948578
-Whitehorse,Vermont,1/10/2017,1037104
-Whitehorse,Vermont,1/11/2017,1037104
-Whitehorse,Vermont,1/12/2017,1037104
-Whitehorse,Vermont South,1/01/2016,1203982
-Whitehorse,Vermont South,1/02/2016,1203982
-Whitehorse,Vermont South,1/03/2016,1203982
-Whitehorse,Vermont South,1/04/2016,1203982
-Whitehorse,Vermont South,1/05/2016,1203982
-Whitehorse,Vermont South,1/06/2016,1203982
-Whitehorse,Vermont South,1/07/2016,1203982
-Whitehorse,Vermont South,1/08/2016,1203982
-Whitehorse,Vermont South,1/09/2016,1203982
-Whitehorse,Vermont South,1/10/2016,1203982
-Whitehorse,Vermont South,1/11/2016,1203982
-Whitehorse,Vermont South,1/12/2016,1203982
-Whitehorse,Vermont South,1/01/2017,1203982
-Whitehorse,Vermont South,1/02/2017,1203982
-Whitehorse,Vermont South,1/03/2017,1203982
-Whitehorse,Vermont South,1/04/2017,1203982
-Whitehorse,Vermont South,1/05/2017,1243300
-Whitehorse,Vermont South,1/06/2017,1253286
-Whitehorse,Vermont South,1/07/2017,1269533
-Whitehorse,Vermont South,1/08/2017,1130042
-Whitehorse,Vermont South,1/09/2017,1123750
-Whitehorse,Vermont South,1/10/2017,1203982
-Whitehorse,Vermont South,1/11/2017,1203982
-Whitehorse,Vermont South,1/12/2017,1203982
+CouncilArea,DateMonth,avg_price
+Banyule,2016-01-01,962570
+Banyule,2016-02-01,962570
+Banyule,2016-03-01,962570
+Banyule,2016-04-01,760461
+Banyule,2016-05-01,881020
+Banyule,2016-06-01,1001577
+Banyule,2016-07-01,914307
+Banyule,2016-08-01,1003731
+Banyule,2016-09-01,998136
+Banyule,2016-10-01,1045450
+Banyule,2016-11-01,1020888
+Banyule,2016-12-01,860853
+Banyule,2017-01-01,962570
+Banyule,2017-02-01,994662
+Banyule,2017-03-01,1032896
+Banyule,2017-04-01,989698
+Banyule,2017-05-01,980287
+Banyule,2017-06-01,968920
+Banyule,2017-07-01,986558
+Banyule,2017-08-01,969800
+Banyule,2017-09-01,954445
+Banyule,2017-10-01,962570
+Banyule,2017-11-01,962570
+Banyule,2017-12-01,962570
+Bayside,2016-01-01,1660971
+Bayside,2016-02-01,1660971
+Bayside,2016-03-01,1660971
+Bayside,2016-04-01,1629673
+Bayside,2016-05-01,1568357
+Bayside,2016-06-01,1656286
+Bayside,2016-07-01,1417592
+Bayside,2016-08-01,1675332
+Bayside,2016-09-01,1763812
+Bayside,2016-10-01,1630129
+Bayside,2016-11-01,1836017
+Bayside,2016-12-01,1784683
+Bayside,2017-01-01,1660971
+Bayside,2017-02-01,1560638
+Bayside,2017-03-01,1751745
+Bayside,2017-04-01,1822178
+Bayside,2017-05-01,1746466
+Bayside,2017-06-01,1635046
+Bayside,2017-07-01,1297817
+Bayside,2017-08-01,1740150
+Bayside,2017-09-01,1720592
+Bayside,2017-10-01,1660971
+Bayside,2017-11-01,1660971
+Bayside,2017-12-01,1660971
+Boroondara,2016-01-01,1728340
+Boroondara,2016-01-01,2778864
+Boroondara,2016-02-01,978182
+Boroondara,2016-03-01,1728340
+Boroondara,2016-04-01,1736283
+Boroondara,2016-05-01,1875871
+Boroondara,2016-06-01,1654425
+Boroondara,2016-07-01,1520761
+Boroondara,2016-08-01,1776300
+Boroondara,2016-09-01,1682412
+Boroondara,2016-10-01,1669874
+Boroondara,2016-11-01,1638109
+Boroondara,2016-12-01,1819271
+Boroondara,2017-01-01,1728340
+Boroondara,2017-02-01,1796030
+Boroondara,2017-03-01,1947473
+Boroondara,2017-04-01,1341210
+Boroondara,2017-05-01,1800110
+Boroondara,2017-06-01,1815359
+Boroondara,2017-07-01,1387213
+Boroondara,2017-08-01,1782742
+Boroondara,2017-09-01,1837970
+Boroondara,2017-10-01,1728340
+Boroondara,2017-11-01,1728340
+Boroondara,2017-12-01,1728340
+Brimbank,2016-01-01,635710
+Brimbank,2016-02-01,765000
+Brimbank,2016-03-01,635710
+Brimbank,2016-04-01,595652
+Brimbank,2016-05-01,600398
+Brimbank,2016-06-01,536820
+Brimbank,2016-07-01,564043
+Brimbank,2016-08-01,572874
+Brimbank,2016-09-01,559513
+Brimbank,2016-10-01,671163
+Brimbank,2016-11-01,661157
+Brimbank,2016-12-01,649100
+Brimbank,2017-01-01,635710
+Brimbank,2017-02-01,677062
+Brimbank,2017-03-01,698239
+Brimbank,2017-04-01,661552
+Brimbank,2017-05-01,673424
+Brimbank,2017-06-01,642195
+Brimbank,2017-07-01,631861
+Brimbank,2017-08-01,630729
+Brimbank,2017-09-01,652002
+Brimbank,2017-10-01,635710
+Brimbank,2017-11-01,635710
+Brimbank,2017-12-01,635710
+Cardinia,2016-01-01,509669
+Cardinia,2016-02-01,509669
+Cardinia,2016-03-01,509669
+Cardinia,2016-04-01,509669
+Cardinia,2016-05-01,509669
+Cardinia,2016-06-01,509669
+Cardinia,2016-07-01,509669
+Cardinia,2016-08-01,509669
+Cardinia,2016-09-01,509669
+Cardinia,2016-10-01,509669
+Cardinia,2016-11-01,509669
+Cardinia,2016-12-01,509669
+Cardinia,2017-01-01,509669
+Cardinia,2017-02-01,509669
+Cardinia,2017-03-01,509669
+Cardinia,2017-04-01,509669
+Cardinia,2017-05-01,488200
+Cardinia,2017-06-01,531833
+Cardinia,2017-07-01,576643
+Cardinia,2017-08-01,442000
+Cardinia,2017-09-01,509669
+Cardinia,2017-10-01,509669
+Cardinia,2017-11-01,509669
+Cardinia,2017-12-01,509669
+Casey,2016-01-01,658759
+Casey,2016-02-01,658759
+Casey,2016-03-01,658759
+Casey,2016-04-01,658759
+Casey,2016-05-01,658759
+Casey,2016-06-01,658759
+Casey,2016-07-01,658759
+Casey,2016-08-01,658759
+Casey,2016-09-01,658759
+Casey,2016-10-01,658759
+Casey,2016-11-01,658759
+Casey,2016-12-01,658759
+Casey,2017-01-01,658759
+Casey,2017-02-01,658759
+Casey,2017-03-01,658759
+Casey,2017-04-01,658759
+Casey,2017-05-01,728833
+Casey,2017-06-01,582058
+Casey,2017-07-01,651354
+Casey,2017-08-01,604967
+Casey,2017-09-01,726583
+Casey,2017-10-01,658759
+Casey,2017-11-01,658759
+Casey,2017-12-01,658759
+Darebin,2016-01-01,903792
+Darebin,2016-02-01,1110825
+Darebin,2016-03-01,903792
+Darebin,2016-04-01,846727
+Darebin,2016-05-01,884337
+Darebin,2016-06-01,877403
+Darebin,2016-07-01,866662
+Darebin,2016-08-01,878150
+Darebin,2016-09-01,871585
+Darebin,2016-10-01,875980
+Darebin,2016-11-01,853018
+Darebin,2016-12-01,781532
+Darebin,2017-01-01,903792
+Darebin,2017-02-01,843143
+Darebin,2017-03-01,957026
+Darebin,2017-04-01,927258
+Darebin,2017-05-01,958841
+Darebin,2017-06-01,973514
+Darebin,2017-07-01,897356
+Darebin,2017-08-01,896336
+Darebin,2017-09-01,968571
+Darebin,2017-10-01,903792
+Darebin,2017-11-01,903792
+Darebin,2017-12-01,903792
+Frankston,2016-01-01,737706
+Frankston,2016-02-01,737706
+Frankston,2016-03-01,737706
+Frankston,2016-04-01,737706
+Frankston,2016-05-01,737706
+Frankston,2016-06-01,737706
+Frankston,2016-07-01,737706
+Frankston,2016-08-01,737706
+Frankston,2016-09-01,737706
+Frankston,2016-10-01,737706
+Frankston,2016-11-01,737706
+Frankston,2016-12-01,737706
+Frankston,2017-01-01,737706
+Frankston,2017-02-01,737706
+Frankston,2017-03-01,737706
+Frankston,2017-04-01,737706
+Frankston,2017-05-01,858511
+Frankston,2017-06-01,667034
+Frankston,2017-07-01,666143
+Frankston,2017-08-01,743625
+Frankston,2017-09-01,753219
+Frankston,2017-10-01,737706
+Frankston,2017-11-01,737706
+Frankston,2017-12-01,737706
+Glen Eira,2016-01-01,1083146
+Glen Eira,2016-02-01,851195
+Glen Eira,2016-03-01,1083146
+Glen Eira,2016-04-01,1114061
+Glen Eira,2016-05-01,1066408
+Glen Eira,2016-06-01,1021133
+Glen Eira,2016-07-01,982293
+Glen Eira,2016-08-01,1216104
+Glen Eira,2016-09-01,1055502
+Glen Eira,2016-10-01,1111818
+Glen Eira,2016-11-01,1090353
+Glen Eira,2016-12-01,1119937
+Glen Eira,2017-01-01,1083146
+Glen Eira,2017-02-01,1115510
+Glen Eira,2017-03-01,1125032
+Glen Eira,2017-04-01,897192
+Glen Eira,2017-05-01,1174456
+Glen Eira,2017-06-01,1128147
+Glen Eira,2017-07-01,1019110
+Glen Eira,2017-08-01,1248928
+Glen Eira,2017-09-01,1159445
+Glen Eira,2017-10-01,1083146
+Glen Eira,2017-11-01,1083146
+Glen Eira,2017-12-01,1083146
+Greater Dandenong,2016-01-01,676088
+Greater Dandenong,2016-02-01,676088
+Greater Dandenong,2016-03-01,676088
+Greater Dandenong,2016-04-01,676088
+Greater Dandenong,2016-05-01,676088
+Greater Dandenong,2016-06-01,676088
+Greater Dandenong,2016-07-01,676088
+Greater Dandenong,2016-08-01,676088
+Greater Dandenong,2016-09-01,676088
+Greater Dandenong,2016-10-01,676088
+Greater Dandenong,2016-11-01,676088
+Greater Dandenong,2016-12-01,676088
+Greater Dandenong,2017-01-01,676088
+Greater Dandenong,2017-02-01,676088
+Greater Dandenong,2017-03-01,676088
+Greater Dandenong,2017-04-01,676088
+Greater Dandenong,2017-05-01,746877
+Greater Dandenong,2017-06-01,685766
+Greater Dandenong,2017-07-01,679812
+Greater Dandenong,2017-08-01,641008
+Greater Dandenong,2017-09-01,626979
+Greater Dandenong,2017-10-01,676088
+Greater Dandenong,2017-11-01,676088
+Greater Dandenong,2017-12-01,676088
+Hobsons Bay,2016-01-01,950860
+Hobsons Bay,2016-02-01,720000
+Hobsons Bay,2016-03-01,950860
+Hobsons Bay,2016-04-01,848069
+Hobsons Bay,2016-05-01,872093
+Hobsons Bay,2016-06-01,967816
+Hobsons Bay,2016-07-01,986915
+Hobsons Bay,2016-08-01,898665
+Hobsons Bay,2016-09-01,897614
+Hobsons Bay,2016-10-01,873820
+Hobsons Bay,2016-11-01,1011748
+Hobsons Bay,2016-12-01,961089
+Hobsons Bay,2017-01-01,950860
+Hobsons Bay,2017-02-01,980351
+Hobsons Bay,2017-03-01,1106387
+Hobsons Bay,2017-04-01,995488
+Hobsons Bay,2017-05-01,1117910
+Hobsons Bay,2017-06-01,1011584
+Hobsons Bay,2017-07-01,872097
+Hobsons Bay,2017-08-01,1009134
+Hobsons Bay,2017-09-01,984700
+Hobsons Bay,2017-10-01,950860
+Hobsons Bay,2017-11-01,950860
+Hobsons Bay,2017-12-01,950860
+Hume,2016-01-01,505648
+Hume,2016-02-01,461000
+Hume,2016-03-01,505648
+Hume,2016-04-01,352500
+Hume,2016-05-01,474167
+Hume,2016-06-01,496333
+Hume,2016-07-01,421000
+Hume,2016-08-01,398000
+Hume,2016-09-01,460000
+Hume,2016-10-01,505648
+Hume,2016-11-01,495000
+Hume,2016-12-01,488600
+Hume,2017-01-01,505648
+Hume,2017-02-01,611000
+Hume,2017-03-01,544000
+Hume,2017-04-01,536267
+Hume,2017-05-01,595797
+Hume,2017-06-01,566176
+Hume,2017-07-01,547650
+Hume,2017-08-01,586114
+Hume,2017-09-01,562412
+Hume,2017-10-01,505648
+Hume,2017-11-01,505648
+Hume,2017-12-01,505648
+Kingston,2016-01-01,973012
+Kingston,2016-02-01,1146625
+Kingston,2016-03-01,973012
+Kingston,2016-04-01,910000
+Kingston,2016-05-01,944778
+Kingston,2016-06-01,964104
+Kingston,2016-07-01,821918
+Kingston,2016-08-01,1016768
+Kingston,2016-09-01,956231
+Kingston,2016-10-01,908968
+Kingston,2016-11-01,895746
+Kingston,2016-12-01,988025
+Kingston,2017-01-01,973012
+Kingston,2017-02-01,935658
+Kingston,2017-03-01,995541
+Kingston,2017-04-01,1035316
+Kingston,2017-05-01,1096294
+Kingston,2017-06-01,942948
+Kingston,2017-07-01,940337
+Kingston,2017-08-01,1059792
+Kingston,2017-09-01,955160
+Kingston,2017-10-01,973012
+Kingston,2017-11-01,973012
+Kingston,2017-12-01,973012
+Knox,2016-01-01,868639
+Knox,2016-02-01,868639
+Knox,2016-03-01,868639
+Knox,2016-04-01,868639
+Knox,2016-05-01,868639
+Knox,2016-06-01,868639
+Knox,2016-07-01,868639
+Knox,2016-08-01,868639
+Knox,2016-09-01,868639
+Knox,2016-10-01,868639
+Knox,2016-11-01,868639
+Knox,2016-12-01,868639
+Knox,2017-01-01,868639
+Knox,2017-02-01,868639
+Knox,2017-03-01,868639
+Knox,2017-04-01,868639
+Knox,2017-05-01,821880
+Knox,2017-06-01,888615
+Knox,2017-07-01,851060
+Knox,2017-08-01,856125
+Knox,2017-09-01,925516
+Knox,2017-10-01,868639
+Knox,2017-11-01,868639
+Knox,2017-12-01,868639
+Macedon Ranges,2016-01-01,649168
+Macedon Ranges,2016-02-01,649168
+Macedon Ranges,2016-03-01,649168
+Macedon Ranges,2016-04-01,649168
+Macedon Ranges,2016-05-01,649168
+Macedon Ranges,2016-06-01,649168
+Macedon Ranges,2016-07-01,649168
+Macedon Ranges,2016-08-01,649168
+Macedon Ranges,2016-09-01,649168
+Macedon Ranges,2016-10-01,649168
+Macedon Ranges,2016-11-01,649168
+Macedon Ranges,2016-12-01,649168
+Macedon Ranges,2017-01-01,649168
+Macedon Ranges,2017-02-01,649168
+Macedon Ranges,2017-03-01,649168
+Macedon Ranges,2017-04-01,649168
+Macedon Ranges,2017-05-01,470000
+Macedon Ranges,2017-06-01,756625
+Macedon Ranges,2017-07-01,584667
+Macedon Ranges,2017-08-01,775000
+Macedon Ranges,2017-09-01,659548
+Macedon Ranges,2017-10-01,649168
+Macedon Ranges,2017-11-01,649168
+Macedon Ranges,2017-12-01,649168
+Manningham,2016-01-01,1204158
+Manningham,2016-02-01,1320000
+Manningham,2016-03-01,1204158
+Manningham,2016-04-01,1126309
+Manningham,2016-05-01,1167201
+Manningham,2016-06-01,1085383
+Manningham,2016-07-01,1160292
+Manningham,2016-08-01,1041831
+Manningham,2016-09-01,1236728
+Manningham,2016-10-01,1021800
+Manningham,2016-11-01,1221992
+Manningham,2016-12-01,1150496
+Manningham,2017-01-01,1204158
+Manningham,2017-02-01,1110996
+Manningham,2017-03-01,1229157
+Manningham,2017-04-01,1337551
+Manningham,2017-05-01,1278708
+Manningham,2017-06-01,1298131
+Manningham,2017-07-01,1256357
+Manningham,2017-08-01,1316201
+Manningham,2017-09-01,1315710
+Manningham,2017-10-01,1204158
+Manningham,2017-11-01,1204158
+Manningham,2017-12-01,1204158
+Maribyrnong,2016-01-01,812603
+Maribyrnong,2016-02-01,824000
+Maribyrnong,2016-03-01,812603
+Maribyrnong,2016-04-01,807781
+Maribyrnong,2016-05-01,758176
+Maribyrnong,2016-06-01,756252
+Maribyrnong,2016-07-01,774898
+Maribyrnong,2016-08-01,741134
+Maribyrnong,2016-09-01,773250
+Maribyrnong,2016-10-01,826315
+Maribyrnong,2016-11-01,839108
+Maribyrnong,2016-12-01,830427
+Maribyrnong,2017-01-01,812603
+Maribyrnong,2017-02-01,796117
+Maribyrnong,2017-03-01,814612
+Maribyrnong,2017-04-01,855188
+Maribyrnong,2017-05-01,826117
+Maribyrnong,2017-06-01,860137
+Maribyrnong,2017-07-01,787699
+Maribyrnong,2017-08-01,963445
+Maribyrnong,2017-09-01,792192
+Maribyrnong,2017-10-01,812603
+Maribyrnong,2017-11-01,812603
+Maribyrnong,2017-12-01,812603
+Maroondah,2016-01-01,890567
+Maroondah,2016-02-01,890567
+Maroondah,2016-03-01,890567
+Maroondah,2016-04-01,890567
+Maroondah,2016-05-01,890567
+Maroondah,2016-06-01,890567
+Maroondah,2016-07-01,890567
+Maroondah,2016-08-01,890567
+Maroondah,2016-09-01,890567
+Maroondah,2016-10-01,890567
+Maroondah,2016-11-01,890567
+Maroondah,2016-12-01,890567
+Maroondah,2017-01-01,890567
+Maroondah,2017-02-01,890567
+Maroondah,2017-03-01,890567
+Maroondah,2017-04-01,890567
+Maroondah,2017-05-01,828730
+Maroondah,2017-06-01,854466
+Maroondah,2017-07-01,892335
+Maroondah,2017-08-01,924371
+Maroondah,2017-09-01,952935
+Maroondah,2017-10-01,890567
+Maroondah,2017-11-01,890567
+Maroondah,2017-12-01,890567
+Melbourne,2016-01-01,910054
+Melbourne,2016-02-01,471750
+Melbourne,2016-03-01,910054
+Melbourne,2016-04-01,834531
+Melbourne,2016-05-01,822657
+Melbourne,2016-06-01,965394
+Melbourne,2016-07-01,827941
+Melbourne,2016-08-01,855551
+Melbourne,2016-09-01,970027
+Melbourne,2016-10-01,951455
+Melbourne,2016-11-01,847091
+Melbourne,2016-12-01,948434
+Melbourne,2017-01-01,910054
+Melbourne,2017-02-01,934913
+Melbourne,2017-03-01,970313
+Melbourne,2017-04-01,824851
+Melbourne,2017-05-01,1185028
+Melbourne,2017-06-01,977078
+Melbourne,2017-07-01,765750
+Melbourne,2017-08-01,1144775
+Melbourne,2017-09-01,1083435
+Melbourne,2017-10-01,910054
+Melbourne,2017-11-01,910054
+Melbourne,2017-12-01,910054
+Melton,2016-01-01,518346
+Melton,2016-02-01,518346
+Melton,2016-03-01,518346
+Melton,2016-04-01,518346
+Melton,2016-05-01,518346
+Melton,2016-06-01,518346
+Melton,2016-07-01,518346
+Melton,2016-08-01,518346
+Melton,2016-09-01,518346
+Melton,2016-10-01,518346
+Melton,2016-11-01,518346
+Melton,2016-12-01,518346
+Melton,2017-01-01,518346
+Melton,2017-02-01,518346
+Melton,2017-03-01,518346
+Melton,2017-04-01,518346
+Melton,2017-05-01,517449
+Melton,2017-06-01,494030
+Melton,2017-07-01,459892
+Melton,2017-08-01,589878
+Melton,2017-09-01,530480
+Melton,2017-10-01,518346
+Melton,2017-11-01,518346
+Melton,2017-12-01,518346
+Mitchell,2016-01-01,366000
+Mitchell,2016-02-01,366000
+Mitchell,2016-03-01,366000
+Mitchell,2016-04-01,366000
+Mitchell,2016-05-01,366000
+Mitchell,2016-06-01,366000
+Mitchell,2016-07-01,366000
+Mitchell,2016-08-01,366000
+Mitchell,2016-09-01,366000
+Mitchell,2016-10-01,366000
+Mitchell,2016-11-01,366000
+Mitchell,2016-12-01,366000
+Mitchell,2017-01-01,366000
+Mitchell,2017-02-01,366000
+Mitchell,2017-03-01,366000
+Mitchell,2017-04-01,366000
+Mitchell,2017-05-01,366000
+Mitchell,2017-06-01,366000
+Mitchell,2017-07-01,366000
+Mitchell,2017-08-01,366000
+Mitchell,2017-09-01,366000
+Mitchell,2017-10-01,366000
+Mitchell,2017-11-01,366000
+Mitchell,2017-12-01,366000
+Monash,2016-01-01,1097325
+Monash,2016-02-01,992428
+Monash,2016-03-01,1097326
+Monash,2016-04-01,909055
+Monash,2016-05-01,1010691
+Monash,2016-06-01,896703
+Monash,2016-07-01,1060867
+Monash,2016-08-01,1082202
+Monash,2016-09-01,1009123
+Monash,2016-10-01,1064721
+Monash,2016-11-01,1042537
+Monash,2016-12-01,1168804
+Monash,2017-01-01,1097326
+Monash,2017-02-01,1155618
+Monash,2017-03-01,1053865
+Monash,2017-04-01,1161082
+Monash,2017-05-01,1157451
+Monash,2017-06-01,1230380
+Monash,2017-07-01,1299967
+Monash,2017-08-01,1217588
+Monash,2017-09-01,1238778
+Monash,2017-10-01,1097326
+Monash,2017-11-01,1097326
+Monash,2017-12-01,1097325
+Moonee Valley,2016-01-01,1000405
+Moonee Valley,2016-02-01,1102000
+Moonee Valley,2016-03-01,1000405
+Moonee Valley,2016-04-01,964729
+Moonee Valley,2016-05-01,974192
+Moonee Valley,2016-06-01,923758
+Moonee Valley,2016-07-01,917928
+Moonee Valley,2016-08-01,912104
+Moonee Valley,2016-09-01,927096
+Moonee Valley,2016-10-01,997111
+Moonee Valley,2016-11-01,971864
+Moonee Valley,2016-12-01,1013386
+Moonee Valley,2017-01-01,1000405
+Moonee Valley,2017-02-01,1025868
+Moonee Valley,2017-03-01,997547
+Moonee Valley,2017-04-01,970213
+Moonee Valley,2017-05-01,1058296
+Moonee Valley,2017-06-01,1073459
+Moonee Valley,2017-07-01,969370
+Moonee Valley,2017-08-01,1189933
+Moonee Valley,2017-09-01,1018442
+Moonee Valley,2017-10-01,1000405
+Moonee Valley,2017-11-01,1000405
+Moonee Valley,2017-12-01,1000405
+Moreland,2016-01-01,792565
+Moreland,2016-02-01,660000
+Moreland,2016-03-01,792565
+Moreland,2016-04-01,751676
+Moreland,2016-05-01,734277
+Moreland,2016-06-01,753729
+Moreland,2016-07-01,790818
+Moreland,2016-08-01,736724
+Moreland,2016-09-01,757927
+Moreland,2016-10-01,776811
+Moreland,2016-11-01,813141
+Moreland,2016-12-01,805487
+Moreland,2017-01-01,792565
+Moreland,2017-02-01,825797
+Moreland,2017-03-01,864534
+Moreland,2017-04-01,823575
+Moreland,2017-05-01,839303
+Moreland,2017-06-01,881780
+Moreland,2017-07-01,798624
+Moreland,2017-08-01,817770
+Moreland,2017-09-01,834197
+Moreland,2017-10-01,792565
+Moreland,2017-11-01,792565
+Moreland,2017-12-01,792565
+Nillumbik,2016-01-01,865675
+Nillumbik,2016-02-01,865675
+Nillumbik,2016-03-01,865675
+Nillumbik,2016-04-01,865675
+Nillumbik,2016-05-01,865675
+Nillumbik,2016-06-01,865675
+Nillumbik,2016-07-01,865675
+Nillumbik,2016-08-01,865675
+Nillumbik,2016-09-01,865675
+Nillumbik,2016-10-01,865675
+Nillumbik,2016-11-01,865675
+Nillumbik,2016-12-01,865675
+Nillumbik,2017-01-01,865675
+Nillumbik,2017-02-01,865675
+Nillumbik,2017-03-01,865675
+Nillumbik,2017-04-01,865675
+Nillumbik,2017-05-01,868333
+Nillumbik,2017-06-01,903994
+Nillumbik,2017-07-01,811793
+Nillumbik,2017-08-01,859813
+Nillumbik,2017-09-01,884444
+Nillumbik,2017-10-01,865675
+Nillumbik,2017-11-01,865675
+Nillumbik,2017-12-01,865675
+Port Phillip,2016-01-01,1168147
+Port Phillip,2016-02-01,879797
+Port Phillip,2016-03-01,1168147
+Port Phillip,2016-04-01,1099558
+Port Phillip,2016-05-01,1038690
+Port Phillip,2016-06-01,1118408
+Port Phillip,2016-07-01,1008709
+Port Phillip,2016-08-01,945912
+Port Phillip,2016-09-01,1327836
+Port Phillip,2016-10-01,1093433
+Port Phillip,2016-11-01,1118563
+Port Phillip,2016-12-01,1224627
+Port Phillip,2017-01-01,1168147
+Port Phillip,2017-02-01,1087420
+Port Phillip,2017-03-01,1334838
+Port Phillip,2017-04-01,1253254
+Port Phillip,2017-05-01,1473982
+Port Phillip,2017-06-01,1342446
+Port Phillip,2017-07-01,997161
+Port Phillip,2017-08-01,1404937
+Port Phillip,2017-09-01,1277083
+Port Phillip,2017-10-01,1168147
+Port Phillip,2017-11-01,1168147
+Port Phillip,2017-12-01,1168147
+Stonnington,2016-01-01,1378914
+Stonnington,2016-02-01,350000
+Stonnington,2016-03-01,1378914
+Stonnington,2016-04-01,1464716
+Stonnington,2016-05-01,1455567
+Stonnington,2016-06-01,1372965
+Stonnington,2016-07-01,1203135
+Stonnington,2016-08-01,1526582
+Stonnington,2016-09-01,1427622
+Stonnington,2016-10-01,1388326
+Stonnington,2016-11-01,1568845
+Stonnington,2016-12-01,1562262
+Stonnington,2017-01-01,1378914
+Stonnington,2017-02-01,1557851
+Stonnington,2017-03-01,1506809
+Stonnington,2017-04-01,1165959
+Stonnington,2017-05-01,1575927
+Stonnington,2017-06-01,1721462
+Stonnington,2017-07-01,846029
+Stonnington,2017-08-01,1528154
+Stonnington,2017-09-01,1598238
+Stonnington,2017-10-01,1378914
+Stonnington,2017-11-01,1378914
+Stonnington,2017-12-01,1378914
+Whitehorse,2016-01-01,1272662
+Whitehorse,2016-01-01,1009000
+Whitehorse,2016-02-01,1146500
+Whitehorse,2016-03-01,1272662
+Whitehorse,2016-04-01,1347331
+Whitehorse,2016-05-01,1260307
+Whitehorse,2016-06-01,1384765
+Whitehorse,2016-07-01,1213337
+Whitehorse,2016-08-01,1321054
+Whitehorse,2016-09-01,1276083
+Whitehorse,2016-10-01,1375799
+Whitehorse,2016-11-01,1391145
+Whitehorse,2016-12-01,1383312
+Whitehorse,2017-01-01,1272662
+Whitehorse,2017-02-01,1550545
+Whitehorse,2017-03-01,1312011
+Whitehorse,2017-04-01,1309867
+Whitehorse,2017-05-01,1228068
+Whitehorse,2017-06-01,1183605
+Whitehorse,2017-07-01,1156467
+Whitehorse,2017-08-01,1143258
+Whitehorse,2017-09-01,1188129
+Whitehorse,2017-10-01,1272662
+Whitehorse,2017-11-01,1272662
+Whitehorse,2017-12-01,1272662
+Whittlesea,2016-01-01,618685
+Whittlesea,2016-02-01,618685
+Whittlesea,2016-03-01,618685
+Whittlesea,2016-04-01,618685
+Whittlesea,2016-05-01,618685
+Whittlesea,2016-06-01,618685
+Whittlesea,2016-07-01,618685
+Whittlesea,2016-08-01,618685
+Whittlesea,2016-09-01,618685
+Whittlesea,2016-10-01,618685
+Whittlesea,2016-11-01,618685
+Whittlesea,2016-12-01,618685
+Whittlesea,2017-01-01,618685
+Whittlesea,2017-02-01,618685
+Whittlesea,2017-03-01,618685
+Whittlesea,2017-04-01,618685
+Whittlesea,2017-05-01,607060
+Whittlesea,2017-06-01,611534
+Whittlesea,2017-07-01,624189
+Whittlesea,2017-08-01,628365
+Whittlesea,2017-09-01,622276
+Whittlesea,2017-10-01,618685
+Whittlesea,2017-11-01,618685
+Whittlesea,2017-12-01,618685
+Wyndham,2016-01-01,547281
+Wyndham,2016-02-01,547281
+Wyndham,2016-03-01,547281
+Wyndham,2016-04-01,547281
+Wyndham,2016-05-01,547281
+Wyndham,2016-06-01,547281
+Wyndham,2016-07-01,547281
+Wyndham,2016-08-01,547281
+Wyndham,2016-09-01,547281
+Wyndham,2016-10-01,547281
+Wyndham,2016-11-01,547281
+Wyndham,2016-12-01,547281
+Wyndham,2017-01-01,547281
+Wyndham,2017-02-01,547281
+Wyndham,2017-03-01,547281
+Wyndham,2017-04-01,547281
+Wyndham,2017-05-01,517678
+Wyndham,2017-06-01,563764
+Wyndham,2017-07-01,554347
+Wyndham,2017-08-01,542189
+Wyndham,2017-09-01,558428
+Wyndham,2017-10-01,547281
+Wyndham,2017-11-01,547281
+Wyndham,2017-12-01,547281
+Yarra,2016-01-01,1149569
+Yarra,2016-02-01,1061493
+Yarra,2016-03-01,1149569
+Yarra,2016-04-01,1264105
+Yarra,2016-05-01,1182454
+Yarra,2016-06-01,945797
+Yarra,2016-07-01,1052353
+Yarra,2016-08-01,1098208
+Yarra,2016-09-01,1104766
+Yarra,2016-10-01,1113966
+Yarra,2016-11-01,1167990
+Yarra,2016-12-01,1246758
+Yarra,2017-01-01,1149569
+Yarra,2017-02-01,1249556
+Yarra,2017-03-01,1116106
+Yarra,2017-04-01,1057327
+Yarra,2017-05-01,1210049
+Yarra,2017-06-01,1178297
+Yarra,2017-07-01,1049659
+Yarra,2017-08-01,1345055
+Yarra,2017-09-01,1248304
+Yarra,2017-10-01,1149569
+Yarra,2017-11-01,1149569
+Yarra,2017-12-01,1149569
+Yarra Ranges,2016-01-01,765947
+Yarra Ranges,2016-02-01,765947
+Yarra Ranges,2016-03-01,765947
+Yarra Ranges,2016-04-01,765947
+Yarra Ranges,2016-05-01,765947
+Yarra Ranges,2016-06-01,765947
+Yarra Ranges,2016-07-01,765947
+Yarra Ranges,2016-08-01,765947
+Yarra Ranges,2016-09-01,765947
+Yarra Ranges,2016-10-01,765947
+Yarra Ranges,2016-11-01,765947
+Yarra Ranges,2016-12-01,765947
+Yarra Ranges,2017-01-01,765947
+Yarra Ranges,2017-02-01,765947
+Yarra Ranges,2017-03-01,765947
+Yarra Ranges,2017-04-01,765947
+Yarra Ranges,2017-05-01,911982
+Yarra Ranges,2017-06-01,710031
+Yarra Ranges,2017-07-01,711429
+Yarra Ranges,2017-08-01,745838
+Yarra Ranges,2017-09-01,750454
+Yarra Ranges,2017-10-01,765947
+Yarra Ranges,2017-11-01,765947
+Yarra Ranges,2017-12-01,765947
