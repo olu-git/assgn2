@@ -4,8 +4,8 @@
 <head>
     <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.18.2"></script>
 
     <!-- Import pure.css -->
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
@@ -33,15 +33,27 @@
         <!-- TITLE/SUBTITLE: pure grid group -->
         <div class="pure-g">
             <div class="pure-u-1-1">
-                <h1 id="c-align">The Housing Market - At A Glance</h1>
-                <p id="c-align">Housing prices have been soaring globally, especially over the past decade. While
-                    certain demographics benefit from this, the majority of people face the daunting ramifications of a
-                    heated property market. Below is exploration of how housing prices have changed in recent times.
-                    Specifically, the global and Australian housing market will be briefly inspected before more
-                    detailed insight is provided on Melbourne's market.</p>
+                <h1 id="c-align">A Window of Opportunity in the Housing Market?</h1>
+                <p id="c-align">
+                    Housing prices have been <span class="blue_text">soaring globally</span>, especially over the past
+                    decade. While
+                    certain demographics benefit from this, the majority face the daunting ramifications of a
+                    <span class="blue_text">heated property market</span>. <br><br>
+                    Below is exploration of how housing prices have changed in recent times.
+                    Specifically, the <span class="blue_text">global and Australian housing market</span> will be
+                    briefly inspected before more
+                    detailed insight is provided on <span class="blue_text">Melbourne's market</span>.<br><br>
+                    Various measures are used such as the <span class="blue_text">House
+                        Price Index (HPI)</span> of a few indices, <span class="blue_text">average pricing</span> and
+                    <span class="blue_text">median pricing</span>. These measures
+                    allow for
+                    meaningful comparison between nations, states, and even suburbs.
+                </p>
             </div>
         </div>
         <!-- TITLE/SUBTITLE: end pure grid group -->
+
+        <hr>
 
         <div>
             <p><br></p>
@@ -56,18 +68,20 @@
                 <div class="description description-right">
                     <h2> <span class="blue_text">Indices Rapidly Rose</span> in the 2010's</h2>
                     <p>
-                        Real Prices: Nominal house price index to the consumer's expenditure deflator that compares
+                        <b>Note -</b> Missing data because of lacking collection tools relate to a nation's
+                        economic weakness.<br><br>
+                        <b> Real Prices: </b> Nominal HPI to the consumer's expenditure deflator that
+                        compares
                         pricing between each country.<br><br>
-                        Rent Prices: Changes in prices that households pay for housing rentals.<br><br>
-                        Price to Income: A measure of affordability that divides the nominal house price index by the
+                        <b>Rent Prices: </b> Price changes for housing rentals.<br><br>
+                        <b>Price to Income: </b> A measure of affordability that divides the nominal HPI
+                        by the
                         nominal disposable income per person.<br><br>
-                        Price to Rent: A measure of profitability of house ownership that divdes the nominal house price
-                        index housing rent price index. <br><br>
-                        Using "Real Prices", it is apparent that nations like China, Canada and the US currently have a
-                        overheated housing market. Meanwhile, Australia's property market has remained relatively stable
-                        in comparison to others.<br><br>
-                        Note: Missing data is due to a lack of collection tools, possibly signifying a weak national
-                        economy.
+                        <b>Price to Rent: </b> A measure of profitability of house ownership that divdes the nominal
+                        HPI housing rent price index. <br><br>
+                        <span class="blue_text">"Real Prices"</span> indicate that nations like China and the US
+                        currently have a overheated housing
+                        market, while Australia's is not far behind - being slightly more stable.
                     </p>
                 </div>
             </div>
@@ -82,13 +96,25 @@
         <div class="pure-g">
             <div class="pure-u-1-3">
                 <div class="description description-right">
-                    <h2>The Australia Housing Market is <span class="blue_text">Booming</span></h2>
+                    <h2>The <span class="blue_text">Australian</span> Housing Market is <span
+                            class="blue_text">Booming</span></h2>
                     <p>
-                        Here, we have the median house pricing in Australian capital cities, from 2005 to 2021. We can
-                        see that Sydney tend to have the highest median house pricing in terms of Australian cities
-                        followed by Melbourne. Meanwhile, mainland Australia's east cost seems to have the highest
-                        overall pricing, possibly due to population. Overall, increasing trend.<br> <span
-                            class="red_text">Not done</span>
+                        Here, we have the <span class="blue_text">median house pricing</span> in Australian capital
+                        cities and Australian states from
+                        2004 to 2021. <br><br>
+                        In terms of States, it is evident that <span class="blue_text">New South Wales consisently
+                            remains the
+                            costliest</span> for living
+                        followed closely by <span class="blue_text">Victoria</span>. A similar trend is seen with the
+                        capital cities too. <br><br>
+                        We can see that <span class="blue_text">Sydney</span> tends to have the <span
+                            class="blue_text">ghest median house pricing</span>hi followed by <span
+                            class="blue_text">Melbourne</span>.
+                        Meanwhile, mainland Australia's east cost seems to have the highest
+                        overall pricing, possibly due to greater level of population.<br><br>
+                        Overall, there has been an increasing trend in housing prices across all of Australia,
+                        especially during the past few years due to <span class="blue_text">government and RBA
+                            policy</span>.
                     </p>
                 </div>
             </div>
@@ -112,10 +138,23 @@
                     <h2>Melbourne's<span class="blue_text"> Inner Suburbs</span> are the <span class="blue_text">Most
                             Expensive</span></h2>
                     <p>
-                        Outer sububrbs have less fluctations <br><br>
-                        CBD is area seems to be the most expensive (proximity + heritage)<br><br>
-                        Urban sprawl occured and then South-East became a populous area <br><br>
-                        This lead to an increase in prices in this region. <br> <span class="red_text">Not done</span>
+                        Immediately, it is obvious that outer <span class="blue_text">Melbourne suburbs seem to have
+                            less monthly flucations</span>
+                        than those near the CBD. However, <span class="blue_text">Riddle's Creek</span> and <span
+                            class="blue_text">Frankston South</span> seem to <span class="blue_text">anomalies</span>
+                        given their distance from the city. <br><br>
+                        The <span class="blue_text">CBD area seems to be the most expensive</span>. This is likely due
+                        to its centrality and proximity
+                        to jobs and important locations. In addition, Melbourne's heritage and general city aspect add
+                        to each suburbs housing valuation.<br><br>
+                        <span class="blue_text">Urban sprawl</span> from the city becomes apparent as the Southern
+                        Metropolitan area appears to be the
+                        next most
+                        expensive Suburban area. As this region is more populated, the housing market here is more
+                        expensive.<br><br>
+                        By <b>zooming in</b> and changing the <b>map centre</b>, more detail is shown for each of the
+                        suburbs in
+                        Melbourne. Statewide comparison become possible as well as immediate sububr comparisons.
                     </p>
                 </div>
             </div>
@@ -126,13 +165,46 @@
             <p><br></p>
         </div>
 
+        <h2 id="c-align"><span class="blue_text">A Peek into Melbourne's Housing Situation</span></h2>
+        <hr>
+
         <!-- #4,5: pure grid group -->
         <div class="pure-g">
-            <div class="pure-u-1-2">
+            <div class="pure-u-11-24">
                 <div id="vis4" class="vega-container"></div>
+                <div id="l-align">
+                    <h3>A <span class="blue_text">Large Proportion</span> of Houses Cost Over <span
+                            class="blue_text">$1M</span></h3>
+                    <p>
+                        To no surprise, a large amount of houses are worth over $1 million in Melbourne. The
+                        distribution of the <span class="blue_text">prices is heavily skewed to the right</span> -
+                        making the mean greater than the
+                        median.<br><br>
+                        By selecting specific bin regions, the <span class="blue_text">median and mean line
+                            change</span> to fit that region.
+                        Although it is unnoticeable, there are a few houses ranging from $5M-$9M.
+                    </p>
+                </div>
             </div>
-            <div class="pure-u-1-2">
-                <div id="vis5" class="vega-container"></div>
+            <div class="pure-u-2-24">
+            </div>
+            <div class="pure-u-11-24">
+                <div id="vis5" class="vega-container"></div><br><br>
+                <div id="l-align">
+                    <h3>New Homeowners should <span class="blue_text">Buy</span> in <span class="blue_text">West
+                            Melbourne</span></h3>
+                    <p>
+                        The <span class="blue_text">Southern Metropolitan is the most expensive area</span> but also
+                        contains
+                        the widest spread of house prices - suggesting high levels of inequality. <br><br>
+                        Meanwhile, the developing <span class="blue_text">Western Metropolitan area is the cheapest
+                            region</span> and could serve as an
+                        entry point for first-home buyers.
+                        As an outlier, <span class="blue_text">Boroondara is a council area of interest</span> that will
+                        be explored later in the
+                        bubble plot below.
+                    </p>
+                </div>
             </div>
         </div>
         <!-- #4,5: end pure grid group -->
@@ -143,11 +215,42 @@
 
         <!-- #6,7: pure grid group -->
         <div class="pure-g">
-            <div class="pure-u-1-2">
-                <div id="vis6" class="vega-container"></div>
+            <div class="pure-u-11-24">
+                <div id="vis6" class="vega-container"></div><br><br>
+                <div id="l-align">
+                    <h3><span class="blue_text">Units</span> are <span class="blue_text">Not </span> Always <span
+                            class="blue_text">Cheap</span></h3>
+                    <p>
+                        By looking at the top 3 most expensive suburbs in each region, it is no surprise that <span
+                            class="blue_text">houses
+                            account for most of the priciest properties</span>. However, <span
+                            class="blue_text">units</span> tend to be the <span class="blue_text">second most
+                            priciest</span>
+                        property type in the populated and expensive regions of South-East Melbourne.<br><br>
+                        As a property
+                        buyer, <span class="blue_text">townhouses may be an optimal choice</span> if choosing to live in
+                        an affluent suburb.
+                    </p>
+                </div>
             </div>
-            <div class="pure-u-1-2">
+            <div class="pure-u-2-24">
+            </div>
+            <div class="pure-u-11-24">
                 <div id="vis7" class="vega-container"></div>
+                <div id="l-align">
+                    <h3><span class="blue_text">Older Homes <i>could</i></span> be a <span class="blue_text">Winning
+                            Formula</span></h3>
+                    <p>
+                        This heatmap indicates the correlation between important variables pertaining to Melbourne
+                        properties. The
+                        <span class="blue_text">higher the correlation (R) value, the stronger the
+                            relationship</span>.<br><br>
+                        <span class="blue_text">Older houses may be cheaper</span>, as indicated by a <span
+                            class="blue_text">negative, albeit weak R-value</span> - thus heritage properties are not
+                        in high demand. The relationship between <span class="blue_text">rooms and prices</span> becomes
+                        important in the next section.
+                    </p>
+                </div>
             </div>
         </div>
         <!-- #6,7: end pure grid group -->
@@ -158,8 +261,37 @@
 
         <!-- #8,9: pure grid group -->
         <div class="pure-g">
-            <div class="pure-u-1-1">
+            <div class="pure-u-2-3">
                 <div id="vis8" class="vega-container"></div>
+            </div>
+            <div class="pure-u-1-3">
+                <div class="description description-right">
+                    <h2>The <span class="blue_text">Bigger</span> the <span class="blue_text">House</span>,
+                        the <span class="blue_text">Larger</span> the <span class="blue_text">Fee</span></h2>
+                    <p>
+                        In the boxplot above, the council area of Boroondara was noted because it served as three
+                        outliers in the Southern Metropolitan. Thereby, <span class="blue_text">Boroondara</span> was
+                        selected as the <span class="blue_text">area of choice</span>
+                        for this bubble plot where we look at the <span class="blue_text">relationship between price and
+                            landsize</span> - adding
+                        <span class="blue_text">property type and rooms</span> as extra dimensions. <br><br>
+                        As <span class="blue_text">landsize increases, so do property prices</span> - exemplifying the
+                        moderately positive relationship
+                        between the two variables.
+                        In addition, <span class="blue_text">room numbers rise with house pricing</span> which furthers
+                        the relationship shown between
+                        the two variables shown in the heatmap.
+                        As the minimum price rises, units begin to vanish and then townhouses. This reflects the fact
+                        that the two aforementioned property types are far cheaper than houses. Budget buyers may need
+                        to consider <span class="blue_text">less rooms</span> and having <span class="blue_text">units
+                            or townhouses</span> as their home of choice. <br><br>
+                        It is worth noting, that <span class="blue_text">one unit in Camberwell</span> is far more
+                        expensive than other units, honing
+                        four rooms and being valued at nearly <span class="blue_text">$2.6M</span>. <br><br>
+
+
+                    </p>
+                </div>
             </div>
         </div>
 
@@ -168,7 +300,30 @@
         </div>
 
         <div class="pure-g">
-            <div class="pure-u-1-1">
+            <div class="pure-u-1-3">
+                <div class="description description-right">
+                    <h2><span class="blue_text">House Pricing</span> in Expensive Suburbs is <span
+                            class="blue_text">Widening</span></h2>
+                    <p>
+                        The line chart here highlights how house prices over the past 10 years have changed across the
+                        <span class="blue_text">top five costliest suburbs</span> in Melbourne. <br><br>
+                        <span class="blue_text">Brighton and Canterbury</span> have consistently shared the title of the
+                        <span class="blue_text">most expensive suburb</span> in the
+                        past decade until property values <span class="blue_text">surged</span> in the past year for
+                        <span class="blue_text">Middle Park</span>. <br><br>
+                        Meanwhile, the bar chart displays the average price of each suburb for the selected period of
+                        time. <br><br>
+                        Here, we reaffirm that <span class="blue_text">Brighton and Canterbury</span> indeed have the
+                        highest property valuation of the
+                        period - <span class="blue_text">valued at over $2 million</span>. <br><br>
+                        The ability to select specific years and find the average house price allows for better overall
+                        <span class="blue_text">comparison of Suburb affordability</span>. On the other hand, wealthy
+                        individuals can determine the
+                        <span class="blue_text">most prestige suburbs</span> to live in.
+                    </p>
+                </div>
+            </div>
+            <div class="pure-u-2-3">
                 <div id="vis9" class="vega-container"></div>
             </div>
         </div>
@@ -180,6 +335,31 @@
             <p><br></p>
         </div>
 
+        <!-- #CONCLUSION: end pure grid group -->
+
+        <hr>
+        <p id="c-align">
+            To conclude, property prices tend to be higher as we approach the CBD. More specifically, the
+            <span class="blue_text">Southern
+                Metropolitan</span> area has the most expensive properties, the <span
+                class="blue_text">Boroondora</span> council area contain affluent suburbs,
+            and
+            <span class="blue_text">Canterbury</span> is the costliest suburbs with house prices averaging over <span
+                class="blue_text">$2.3
+                million</span>. Home buyers should
+            consider
+            several aspects before purchasing their homes such as <span class="blue_text">landsize, garage space</span>
+            and especially the number of
+            <span class="blue_text">rooms</span>
+            in their house. Alternatively, <span class="blue_text">developing regions</span> like the <span
+                class="blue_text">Western
+                Metropolitan</span> could be ideal for both new
+            families and investors.
+        </p>
+
+        <div>
+            <p><br></p>
+        </div>
         <!-- END NOTE: pure grid group-->
         <div class="pure-g">
             <div class="pure-u-1-1 small-font">
@@ -249,7 +429,6 @@
         vegaEmbed('#vis9', specVis9, { "actions": false }).then(function (result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
-
 
     </script>
 
