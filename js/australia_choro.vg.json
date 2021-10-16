@@ -15,7 +15,7 @@
         "min": 2004,
         "max": 2021,
         "step": 1,
-        "name": "Year Selection:"
+        "name": "Year Selection: "
       }
     }
   ],
@@ -192,10 +192,14 @@
     }
   ],
   "config": {
+    "font": "Roboto Condensed",
+    "axis": {
+      "labelFont": "Roboto Condensed"
+    },
     "title": {
       "font": "Roboto Condensed",
       "fontSize": 14,
-      "dx": 30
+      "dx": 40
     }
   }
 }

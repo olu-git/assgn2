@@ -94,7 +94,9 @@
                 "align": "center",
                 "baseline": "top",
                 "dx": 100,
-                "dy": -5,
+                "dy": -55,
+                "font": "Roboto Condensed",
+                "fontStyle": "italic",
                 "fontSize": 12.5
             },
             "encoding": {
@@ -102,19 +104,22 @@
                     "field": "Price",
                     "type": "quantitative",
                     "condition": {
-                        "test": "datum['Price'] > 6000000",
+                        "test": "datum['Price'] > 0",
                         "value": [
-                            "The light blue line represents the",
-                            "mean price of the selected area."
+                            "Light Blue Line: ",
+                            "Mean price of the selected area.",
+                            " ",
+                            "Green Line: ",
+                            "Median price of the selected area."
                         ]
                     }
                 },
                 "color": {
-                    "value": "#45b4c2"
+                    "value": "lightgray"
                 },
                 "opacity": {
                     "condition": {
-                        "test": "datum['Price'] > 6000000",
+                        "test": "datum['Price'] > 0",
                         "value": 1
                     },
                     "value": 0
@@ -154,9 +159,47 @@
                     "value": 3
                 }
             }
+        },
+        {
+            "transform": [
+                {
+                    "filter": {
+                        "param": "brush"
+                    }
+                }
+            ],
+            "mark": {
+                "type": "rule"
+            },
+            "encoding": {
+                "x": {
+                    "aggregate": "median",
+                    "field": "Price",
+                    "title": "Mean",
+                    "axis": {
+                        "title": ""
+                    }
+                },
+                "tooltip": {
+                    "title": "Median",
+                    "aggregate": "median",
+                    "field": "Price",
+                    "format": "$,.0f"
+                },
+                "color": {
+                    "value": "#22964f"
+                },
+                "size": {
+                    "value": 3
+                }
+            }
         }
     ],
     "config": {
+        "font": "Roboto Condensed",
+        "axis": {
+            "labelFont": "Roboto Condensed"
+        },
         "title": {
             "font": "Roboto Condensed",
             "fontSize": 14,

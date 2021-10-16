@@ -6,8 +6,8 @@
     },
     "vconcat": [
         {
-            "width": "container",
-            "height": 300,
+            "width": 500,
+            "height": 250,
             "encoding": {
                 "x": {
                     "field": "Year",
@@ -36,10 +36,10 @@
                             ],
                             "range": [
                                 "#2163aa",
-                                "#45b4c2",
-                                "#dbf1b4",
+                                "#22964f",
                                 "#bf363a",
-                                "orange"
+                                "#ceecb4",
+                                "#45b4c2"
                             ]
                         }
                     },
@@ -116,7 +116,7 @@
                     "type": "nominal"
                 }
             },
-            "width": "container",
+            "width": 500,
             "mark": {
                 "type": "bar",
                 "tooltip": true
@@ -142,11 +142,15 @@
         }
     ],
     "config": {
+        "numberFormat": "$,.2s",
+        "font": "Roboto Condensed",
+        "axis": {
+            "labelFont": "Roboto Condensed"
+        },
         "title": {
             "font": "Roboto Condensed",
             "fontSize": 14,
             "dx": 260
-        },
-        "numberFormat": "$,.2s"
+        }
     }
 }

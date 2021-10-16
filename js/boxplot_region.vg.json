@@ -160,7 +160,8 @@
                 "baseline": "top",
                 "dx": 135,
                 "dy": 5,
-                "font": "sans-serif",
+                "font": "Roboto Condensed",
+                "fontWeight": "bold",
                 "fontStyle": "italic",
                 "fontSize": 12.5
             },
@@ -174,6 +175,9 @@
                             "Boroondara"
                         ]
                     }
+                },
+                "color": {
+                    "value": "lightgray"
                 },
                 "opacity": {
                     "condition": {
@@ -211,7 +215,10 @@
         }
     ],
     "config": {
-        "numberFormat": "$.2s",
+        "font": "Roboto Condensed",
+        "axis": {
+            "labelFont": "Roboto Condensed"
+        },
         "title": {
             "font": "Roboto Condensed",
             "fontSize": 14,

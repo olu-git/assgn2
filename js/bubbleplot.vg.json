@@ -68,14 +68,6 @@
   ],
   "encoding": {
     "x": {
-      "field": "Price",
-      "type": "quantitative",
-      "title": "Price",
-      "axis": {
-        "format": "$.2s"
-      }
-    },
-    "y": {
       "field": "Landsize",
       "type": "quantitative",
       "title": "Landsize (Metres Squared)",
@@ -84,6 +76,14 @@
           0,
           1000
         ]
+      }
+    },
+    "y": {
+      "field": "Price",
+      "type": "quantitative",
+      "title": "Price",
+      "axis": {
+        "format": "$.2s"
       }
     }
   },
@@ -162,6 +162,10 @@
     }
   ],
   "config": {
+    "font": "Roboto Condensed",
+    "axis": {
+      "labelFont": "Roboto Condensed"
+    },
     "title": {
       "font": "Roboto Condensed",
       "fontSize": 14,

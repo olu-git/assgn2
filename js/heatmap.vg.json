@@ -1,6 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Correlation Between Variables",
+    "height": 357,
     "width": "container",
     "data": {
         "values": [
@@ -274,13 +275,15 @@
                 "scheme": "redblue"
             }
         },
+        "font": "Roboto Condensed",
         "axis": {
-            "domain": false
+            "domain": false,
+            "labelFont": "Roboto Condensed"
         },
         "title": {
             "font": "Roboto Condensed",
             "fontSize": 14,
-            "dx": 30
+            "dx": 0
         }
     }
 }
