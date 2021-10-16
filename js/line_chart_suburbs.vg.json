@@ -150,7 +150,7 @@
         "title": {
             "font": "Roboto Condensed",
             "fontSize": 14,
-            "dx": 200
+            "dx": 100
         }
     }
 }
