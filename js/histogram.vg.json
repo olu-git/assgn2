@@ -95,7 +95,7 @@
                 "baseline": "top",
                 "dx": 100,
                 "dy": -55,
-                "font": "Roboto Condensed",
+                "font": "sans-serif",
                 "fontStyle": "italic",
                 "fontSize": 12.5
             },
